@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-dua copy",
+  "id": "bab-dua copy",
+  "title": "Bab 2 - Dasar Penyusunan Tata Tertib",
+  "description": "1. Undang-Undang No. 20 Tahun 2003 tentang Sistem Pendidikan Nasional",
+  "source": "@site/docs/bab-dua copy.md",
+  "sourceDirName": ".",
+  "slug": "/bab-dua copy",
+  "permalink": "/docs/bab-dua copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-dua copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bab 1 - Pendahuluan",
+    "permalink": "/docs/bab-satu"
+  },
+  "next": {
+    "title": "Bab 2 - Dasar Penyusunan Tata Tertib",
+    "permalink": "/docs/bab-dua"
+  }
+}

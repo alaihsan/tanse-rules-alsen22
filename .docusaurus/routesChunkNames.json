@@ -186,7 +186,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a99": {
+  "/docs-82d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-9-b-8-466"
@@ -201,13 +201,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bab-delapan-translate-your-site-7-c-6-723"
   },
-  "/docs/bab-dua/manage-docs-versions-fe8": {
+  "/docs/bab-dua-87d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-dua-manage-docs-versionsfc-9-474"
-  },
-  "/docs/bab-dua/translate-your-site-59e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-dua-translate-your-sitee-10-b35"
+    "content": "content---docs-bab-dua-35-f-43a"
   },
   "/docs/bab-empat/manage-docs-versions-676": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -233,29 +229,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bab-lima-translate-your-siteb-7-c-b42"
   },
-  "/docs/bab-satu/congratulations-038": {
+  "/docs/bab-satu-a75": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-satu-congratulations-489-ee6"
-  },
-  "/docs/bab-satu/create-a-blog-post-146": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-satu-create-a-blog-post-677-6f4"
-  },
-  "/docs/bab-satu/create-a-document-27f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-satu-create-a-documente-04-25a"
-  },
-  "/docs/bab-satu/create-a-page-094": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-satu-create-a-page-62-a-f60"
-  },
-  "/docs/bab-satu/deploy-your-site-043": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-satu-deploy-your-site-1-e-5-7cf"
-  },
-  "/docs/bab-satu/markdown-features-494": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-satu-markdown-features-40-c-503"
+    "content": "content---docs-bab-satufb-3-82d"
   },
   "/docs/bab-sembilan/manage-docs-versions-8be": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -273,13 +249,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bab-sepuluh-translate-your-sitef-2-a-b1a"
   },
-  "/docs/bab-tiga/manage-docs-versions-89b": {
+  "/docs/bab-tiga-3e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-tiga-manage-docs-versions-0-a-9-428"
-  },
-  "/docs/bab-tiga/translate-your-site-230": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-tiga-translate-your-site-9-ab-6fc"
+    "content": "content---docs-bab-tiga-958-a0a"
   },
   "/docs/bab-tujuh/manage-docs-versions-e48": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -289,21 +261,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bab-tujuh-translate-your-site-2-ad-561"
   },
-  "/docs/category/bab-1---pendahuluan-626": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-1-pendahuluan-20-e-8be"
-  },
   "/docs/category/bab-10---penutup-06b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-10-penutupff-4-8fb"
-  },
-  "/docs/category/bab-2---dasar-penyusunan-tata-tertib-677": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-2-dasar-penyusunan-tata-tertibd-7-e-083"
-  },
-  "/docs/category/bab-3---azas-umum-04f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-3-azas-umumc-52-7fb"
   },
   "/docs/category/bab-4---ketentuan-umum-e2f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",

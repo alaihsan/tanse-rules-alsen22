@@ -1,8 +1,8 @@
 {
   "unversionedId": "bab-satu/create-a-page",
   "id": "bab-satu/create-a-page",
-  "title": "Create a Page",
-  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "title": "Pendahuluan",
+  "description": "Undang-Undang No. 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Sisdiknas), pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia serta keterampilan yang diperlukan dirinya, masyarakat, bangsa dan negara.",
   "source": "@site/docs/bab-satu/create-a-page.md",
   "sourceDirName": "bab-satu",
   "slug": "/bab-satu/create-a-page",

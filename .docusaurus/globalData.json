@@ -21,13 +21,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-dua/manage-docs-versions",
-              "path": "/docs/bab-dua/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-dua/translate-your-site",
-              "path": "/docs/bab-dua/translate-your-site",
+              "id": "bab-dua",
+              "path": "/docs/bab-dua",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -61,33 +56,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-satu/congratulations",
-              "path": "/docs/bab-satu/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-satu/create-a-blog-post",
-              "path": "/docs/bab-satu/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-satu/create-a-document",
-              "path": "/docs/bab-satu/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-satu/create-a-page",
-              "path": "/docs/bab-satu/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-satu/deploy-your-site",
-              "path": "/docs/bab-satu/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-satu/markdown-features",
-              "path": "/docs/bab-satu/markdown-features",
+              "id": "bab-satu",
+              "path": "/docs/bab-satu",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -111,13 +81,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-tiga/manage-docs-versions",
-              "path": "/docs/bab-tiga/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-tiga/translate-your-site",
-              "path": "/docs/bab-tiga/translate-your-site",
+              "id": "bab-tiga",
+              "path": "/docs/bab-tiga",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -138,21 +103,6 @@
             {
               "id": "intro",
               "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/bab-1---pendahuluan",
-              "path": "/docs/category/bab-1---pendahuluan",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/bab-2---dasar-penyusunan-tata-tertib",
-              "path": "/docs/category/bab-2---dasar-penyusunan-tata-tertib",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/bab-3---azas-umum",
-              "path": "/docs/category/bab-3---azas-umum",
               "sidebar": "tutorialSidebar"
             },
             {

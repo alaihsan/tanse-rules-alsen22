@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-satu",
+  "id": "bab-satu",
+  "title": "Bab 1 - Pendahuluan",
+  "description": "Mari baca pendahuluan dalam waktu kurang dari 3 menit.",
+  "source": "@site/docs/bab-satu.md",
+  "sourceDirName": ".",
+  "slug": "/bab-satu",
+  "permalink": "/docs/bab-satu",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-satu.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visi dan Misi",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Bab 2 - Dasar Penyusunan Tata Tertib",
+    "permalink": "/docs/bab-dua"
+  }
+}

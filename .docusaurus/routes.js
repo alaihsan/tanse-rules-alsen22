@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a99'),
+    component: ComponentCreator('/docs', '82d'),
     routes: [
       {
         path: '/docs/bab-delapan/manage-docs-versions',
@@ -114,14 +114,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-dua/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-dua/manage-docs-versions', 'fe8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-dua/translate-your-site',
-        component: ComponentCreator('/docs/bab-dua/translate-your-site', '59e'),
+        path: '/docs/bab-dua',
+        component: ComponentCreator('/docs/bab-dua', '87d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -162,38 +156,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-satu/congratulations',
-        component: ComponentCreator('/docs/bab-satu/congratulations', '038'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-satu/create-a-blog-post',
-        component: ComponentCreator('/docs/bab-satu/create-a-blog-post', '146'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-satu/create-a-document',
-        component: ComponentCreator('/docs/bab-satu/create-a-document', '27f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-satu/create-a-page',
-        component: ComponentCreator('/docs/bab-satu/create-a-page', '094'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-satu/deploy-your-site',
-        component: ComponentCreator('/docs/bab-satu/deploy-your-site', '043'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-satu/markdown-features',
-        component: ComponentCreator('/docs/bab-satu/markdown-features', '494'),
+        path: '/docs/bab-satu',
+        component: ComponentCreator('/docs/bab-satu', 'a75'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -222,14 +186,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-tiga/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-tiga/manage-docs-versions', '89b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-tiga/translate-your-site',
-        component: ComponentCreator('/docs/bab-tiga/translate-your-site', '230'),
+        path: '/docs/bab-tiga',
+        component: ComponentCreator('/docs/bab-tiga', '3e3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -246,26 +204,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/bab-1---pendahuluan',
-        component: ComponentCreator('/docs/category/bab-1---pendahuluan', '626'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/docs/category/bab-10---penutup',
         component: ComponentCreator('/docs/category/bab-10---penutup', '06b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/bab-2---dasar-penyusunan-tata-tertib',
-        component: ComponentCreator('/docs/category/bab-2---dasar-penyusunan-tata-tertib', '677'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/bab-3---azas-umum',
-        component: ComponentCreator('/docs/category/bab-3---azas-umum', '04f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

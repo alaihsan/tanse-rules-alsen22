@@ -16,91 +16,22 @@
         "docId": "intro"
       },
       {
-        "type": "category",
+        "type": "link",
         "label": "Bab 1 - Pendahuluan",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/bab-satu/create-a-page",
-            "docId": "bab-satu/create-a-page"
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/bab-satu/create-a-document",
-            "docId": "bab-satu/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/bab-satu/create-a-blog-post",
-            "docId": "bab-satu/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/bab-satu/markdown-features",
-            "docId": "bab-satu/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/bab-satu/deploy-your-site",
-            "docId": "bab-satu/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/bab-satu/congratulations",
-            "docId": "bab-satu/congratulations"
-          }
-        ],
-        "href": "/docs/category/bab-1---pendahuluan"
+        "href": "/docs/bab-satu",
+        "docId": "bab-satu"
       },
       {
-        "type": "category",
+        "type": "link",
         "label": "Bab 2 - Dasar Penyusunan Tata Tertib",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/bab-dua/manage-docs-versions",
-            "docId": "bab-dua/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/bab-dua/translate-your-site",
-            "docId": "bab-dua/translate-your-site"
-          }
-        ],
-        "href": "/docs/category/bab-2---dasar-penyusunan-tata-tertib"
+        "href": "/docs/bab-dua",
+        "docId": "bab-dua"
       },
       {
-        "type": "category",
+        "type": "link",
         "label": "Bab 3 - Azas Umum",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/bab-tiga/manage-docs-versions",
-            "docId": "bab-tiga/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/bab-tiga/translate-your-site",
-            "docId": "bab-tiga/translate-your-site"
-          }
-        ],
-        "href": "/docs/category/bab-3---azas-umum"
+        "href": "/docs/bab-tiga",
+        "docId": "bab-tiga"
       },
       {
         "type": "category",
@@ -270,16 +201,10 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
-    "bab-dua/manage-docs-versions": {
-      "id": "bab-dua/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "bab-dua/translate-your-site": {
-      "id": "bab-dua/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "bab-dua": {
+      "id": "bab-dua",
+      "title": "Bab 2 - Dasar Penyusunan Tata Tertib",
+      "description": "1. Undang-Undang No. 20 Tahun 2003 tentang Sistem Pendidikan Nasional",
       "sidebar": "tutorialSidebar"
     },
     "bab-empat/manage-docs-versions": {
@@ -318,40 +243,10 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
-    "bab-satu/congratulations": {
-      "id": "bab-satu/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-      "sidebar": "tutorialSidebar"
-    },
-    "bab-satu/create-a-blog-post": {
-      "id": "bab-satu/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
-    },
-    "bab-satu/create-a-document": {
-      "id": "bab-satu/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "bab-satu/create-a-page": {
-      "id": "bab-satu/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "bab-satu/deploy-your-site": {
-      "id": "bab-satu/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "bab-satu/markdown-features": {
-      "id": "bab-satu/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
+    "bab-satu": {
+      "id": "bab-satu",
+      "title": "Bab 1 - Pendahuluan",
+      "description": "Mari baca pendahuluan dalam waktu kurang dari 3 menit.",
       "sidebar": "tutorialSidebar"
     },
     "bab-sembilan/manage-docs-versions": {
@@ -378,16 +273,10 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
-    "bab-tiga/manage-docs-versions": {
-      "id": "bab-tiga/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "bab-tiga/translate-your-site": {
-      "id": "bab-tiga/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "bab-tiga": {
+      "id": "bab-tiga",
+      "title": "Bab 3 - Azas Umum",
+      "description": "1. Murid SMP Islam Al Azhar 22 Sentra Primer adalah warga sekolah dan juga sebagai warga negara yang disiplin, jujur, bertanggungjawab, patuh pada peraturan dan tata tertib sekolah, hormat pada orang tua, guru, karyawan, dan berakhlaq mulia.",
       "sidebar": "tutorialSidebar"
     },
     "bab-tujuh/manage-docs-versions": {

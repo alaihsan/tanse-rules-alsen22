@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-tiga",
+  "id": "bab-tiga",
+  "title": "Bab 3 - Azas Umum",
+  "description": "1. Murid SMP Islam Al Azhar 22 Sentra Primer adalah warga sekolah dan juga sebagai warga negara yang disiplin, jujur, bertanggungjawab, patuh pada peraturan dan tata tertib sekolah, hormat pada orang tua, guru, karyawan, dan berakhlaq mulia.",
+  "source": "@site/docs/bab-tiga.md",
+  "sourceDirName": ".",
+  "slug": "/bab-tiga",
+  "permalink": "/docs/bab-tiga",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tiga.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bab 2 - Dasar Penyusunan Tata Tertib",
+    "permalink": "/docs/bab-dua"
+  },
+  "next": {
+    "title": "Bab 4 - Ketentuan Umum",
+    "permalink": "/docs/category/bab-4---ketentuan-umum"
+  }
+}
