@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Bab Satu",
+                "permalink": "/docs/category/bab-satu"
               }
             },
             {
@@ -142,8 +142,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Bab Satu",
+                "permalink": "/docs/category/bab-satu"
               },
               "next": {
                 "title": "Create a Document",
@@ -264,7 +264,7 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Bab Satu",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -296,8 +296,8 @@
                 "link": {
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "slug": "/category/bab-satu",
+                  "permalink": "/docs/category/bab-satu"
                 }
               },
               {

@@ -99,11 +99,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '158'),
+    component: ComponentCreator('/docs', '842'),
     routes: [
       {
-        path: '/docs/category/tutorial---basics',
-        component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+        path: '/docs/category/bab-satu',
+        component: ComponentCreator('/docs/category/bab-satu', '67d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

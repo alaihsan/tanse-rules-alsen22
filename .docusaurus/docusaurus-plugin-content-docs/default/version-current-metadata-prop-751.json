@@ -17,7 +17,7 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Bab Satu",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -58,7 +58,7 @@
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/docs/category/bab-satu"
       },
       {
         "type": "category",

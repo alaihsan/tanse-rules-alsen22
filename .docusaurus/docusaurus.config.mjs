@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "Tartib Tanse - SMPIA 22",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
@@ -42,7 +42,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Ketahanan Sekolah SMPIA 22 ",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -52,17 +52,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
+          "label": "Tata Tertib"
         }
       ],
       "hideOnScroll": false
@@ -74,25 +64,33 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Tata Tertib",
               "to": "/docs/intro"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Social Media",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Fan Page Facebook",
+              "href": "https://web.facebook.com/sekolahsmpia22sp"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Instagram",
+              "href": "https://www.instagram.com/smpia22sp/"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Youtube",
+              "href": "https://www.youtube.com/@SMPIALAZHAR22SENTRAPRIMER"
+            },
+            {
+              "label": "Website SMPIA 22",
+              "href": "https://smpia22.al-azhar.sch.id/"
+            },
+            {
+              "label": "Siniar Alsen 22",
+              "href": "https://open.spotify.com/show/3VA4NNC9NPFC1Bgyvy4gwr"
             }
           ]
         },
@@ -100,17 +98,17 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Penerimaan Murid Baru",
+              "to": "https://salam-alazhar.id/"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Learning Management System",
+              "href": "https://smp.salam-alazhar.id/login/index.php"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Tartib Tanse App developed by TIM IT ALSEN 22"
     },
     "prism": {
       "theme": {

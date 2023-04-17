@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Tartib Tanse - SMPIA 22',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Ketahanan Sekolah SMPIA 22 ',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -74,14 +74,16 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tata Tertib',
           },
+          /** 
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
+          **/
         ],
       },
       footer: {
@@ -91,25 +93,33 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Tata Tertib',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Social Media',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Fan Page Facebook',
+                href: 'https://web.facebook.com/sekolahsmpia22sp',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/smpia22sp/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@SMPIALAZHAR22SENTRAPRIMER',
+              },
+              {
+                label: 'Website SMPIA 22',
+                href: 'https://smpia22.al-azhar.sch.id/',
+              },
+              {
+                label: 'Siniar Alsen 22',
+                href: 'https://open.spotify.com/show/3VA4NNC9NPFC1Bgyvy4gwr',
               },
             ],
           },
@@ -117,17 +127,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Penerimaan Murid Baru',
+                to: 'https://salam-alazhar.id/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Learning Management System',
+                href: 'https://smp.salam-alazhar.id/login/index.php',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tartib Tanse App developed by TIM IT ALSEN 22`,
       },
       prism: {
         theme: lightCodeTheme,
