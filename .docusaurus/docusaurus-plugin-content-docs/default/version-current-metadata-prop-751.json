@@ -34,25 +34,10 @@
         "docId": "bab-tiga"
       },
       {
-        "type": "category",
+        "type": "link",
         "label": "Bab 4 - Ketentuan Umum",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/bab-empat/manage-docs-versions",
-            "docId": "bab-empat/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/bab-empat/translate-your-site",
-            "docId": "bab-empat/translate-your-site"
-          }
-        ],
-        "href": "/docs/category/bab-4---ketentuan-umum"
+        "href": "/docs/bab-empat",
+        "docId": "bab-empat"
       },
       {
         "type": "category",
@@ -62,7 +47,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
+            "label": "Pasal 2 - Waktu Belajar",
             "href": "/docs/bab-lima/manage-docs-versions",
             "docId": "bab-lima/manage-docs-versions"
           },
@@ -207,16 +192,10 @@
       "description": "1. Undang-Undang No. 20 Tahun 2003 tentang Sistem Pendidikan Nasional",
       "sidebar": "tutorialSidebar"
     },
-    "bab-empat/manage-docs-versions": {
-      "id": "bab-empat/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "bab-empat/translate-your-site": {
-      "id": "bab-empat/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "bab-empat": {
+      "id": "bab-empat",
+      "title": "Bab 4 - Ketentuan Umum",
+      "description": "Pasal 1 - Pengertian",
       "sidebar": "tutorialSidebar"
     },
     "bab-enam/manage-docs-versions": {
@@ -233,8 +212,8 @@
     },
     "bab-lima/manage-docs-versions": {
       "id": "bab-lima/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+      "title": "Pasal 2 - Waktu Belajar",
+      "description": "1. Hari belajar di SMP Islam Al Azhar 22 adalah hari Senin sampai dengan Jum’at kecuali hari-hari yang diliburkan menurut ketentuan nasional, YPI Al Azhar dan ketentuan SMP Islam Al Azhar 22 Sentra Primer.",
       "sidebar": "tutorialSidebar"
     },
     "bab-lima/translate-your-site": {

@@ -26,13 +26,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-empat/manage-docs-versions",
-              "path": "/docs/bab-empat/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-empat/translate-your-site",
-              "path": "/docs/bab-empat/translate-your-site",
+              "id": "bab-empat",
+              "path": "/docs/bab-empat",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -103,11 +98,6 @@
             {
               "id": "intro",
               "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/bab-4---ketentuan-umum",
-              "path": "/docs/category/bab-4---ketentuan-umum",
               "sidebar": "tutorialSidebar"
             },
             {

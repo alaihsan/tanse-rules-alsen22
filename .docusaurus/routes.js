@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '82d'),
+    component: ComponentCreator('/docs', 'da1'),
     routes: [
       {
         path: '/docs/bab-delapan/manage-docs-versions',
@@ -120,14 +120,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-empat/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-empat/manage-docs-versions', '676'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-empat/translate-your-site',
-        component: ComponentCreator('/docs/bab-empat/translate-your-site', '312'),
+        path: '/docs/bab-empat',
+        component: ComponentCreator('/docs/bab-empat', 'd71'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -206,12 +200,6 @@ export default [
       {
         path: '/docs/category/bab-10---penutup',
         component: ComponentCreator('/docs/category/bab-10---penutup', '06b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/bab-4---ketentuan-umum',
-        component: ComponentCreator('/docs/category/bab-4---ketentuan-umum', 'e2f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

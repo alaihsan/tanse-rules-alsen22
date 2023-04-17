@@ -2,54 +2,23 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Pasal 2 - Waktu Belajar
 
-Docusaurus can manage multiple versions of your docs.
-
-## Create a docs version
-
-Release a version 1.0 of your project:
-
-```bash
-npm run docusaurus docs:version 1.0
-```
-
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
-
-Your docs now have 2 versions:
-
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
-
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+1. Hari belajar di SMP Islam Al Azhar 22 adalah hari Senin sampai dengan Jum’at kecuali hari-hari yang diliburkan menurut ketentuan nasional, YPI Al Azhar dan ketentuan SMP Islam Al Azhar 22 Sentra Primer.
+2. Waktu belajar murid `dimulai pukul 06.40 WIB` dan berakhir pada:
+  * `Pukul 15.00 WIB` (atau sesuai jam KBM) untuk hari Senin, Selasa, Rabu dan Kamis;
+  * `Pukul 13.00 WIB` untuk hari Jum’at.
+3. Murid telah hadir di sekolah `5 menit sebelum pelajaran di mulai.`
+4. Murid dicatat `terlambat hadir` apabila tiba di sekolah pukul 06.45 WIB. (waktu penyesuaian bagi murid baru selama dua minggu pertama)
+5. Dalam hal murid terlambat hadir di sekolah, maka dikenakan sanksi :
+  * **Terlambat satu kali** akan dicatat dalam buku piket dan diberi surat ijin masuk.
+  * **Terlambat dua kali** dalam bulan yang sama akan dicatat dalam buku piket dan diberikan surat peringatan dan dikembalikan ke sekolah setelah ditandatangani orangtua/wali murid.
+  * **Terlambat tiga kali** dalam bulan yang sama akan dicatat di buku piket dan di buku pelanggaran yang masuk kategori terlampir serta dipulangkan (diberikan surat pemulangan) dan ditandangani oleh guru piket, wali kelas dan pimpinan sekolah.
+6. Dalam sebulan terjadi pemulangan kedua maka akan diberikan penanganan khusus dan dijemput orangtua yang bersangkutan.
+7. Jika murid tidak hadir di sekolah karena :
+  * **Sakit,** diharuskan mengirimkan surat/menginformasikan dari orangtua/walinya kepada wali kelas/sekolah, dan jika lebih dari tiga hari harus melampirkan surat keterangan sakit dari dokter,untuk pemberitahuan awal bisa menghubungi guru piket, wali kelasmelalui telepon atau SMS/BBM.
+  * **Izin,** diharuskan mengirimkan surat/menginformasikan dari orangtua/wali kepada wali kelas/sekolah yang menjelaskan keperluannya;
+  * **Izin lebih dari 3 (tiga) hari**, diharuskan melampirkan rekomendasi dari Kepala SMP Islam Al Azhar 22 Sentra Primer.
+8. Murid boleh pulang sebelum waktu belajar selesai dengan alasan :
+  * **Sakit;** diharuskan meminta izin guru piket dan diketahui oleh wali kelas.
+  * **Urusan penting;** diharuskan membawa surat dari orang tua/wali murid yang ditunjukan kepada wali kelas dan dijemput oleh orangtua/wali murid.

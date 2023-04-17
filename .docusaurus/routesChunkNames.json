@@ -186,7 +186,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-82d": {
+  "/docs-da1": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-9-b-8-466"
@@ -205,13 +205,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bab-dua-35-f-43a"
   },
-  "/docs/bab-empat/manage-docs-versions-676": {
+  "/docs/bab-empat-d71": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-empat-manage-docs-versions-9-db-6e3"
-  },
-  "/docs/bab-empat/translate-your-site-312": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-empat-translate-your-sitea-24-60d"
+    "content": "content---docs-bab-empat-848-636"
   },
   "/docs/bab-enam/manage-docs-versions-4d0": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -264,10 +260,6 @@
   "/docs/category/bab-10---penutup-06b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-10-penutupff-4-8fb"
-  },
-  "/docs/category/bab-4---ketentuan-umum-e2f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-4-ketentuan-umum-991-29a"
   },
   "/docs/category/bab-5---kegiatan-belajar-mengajar-23e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",

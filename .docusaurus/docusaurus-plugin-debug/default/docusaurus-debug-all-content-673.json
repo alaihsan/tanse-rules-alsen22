@@ -101,53 +101,26 @@
               }
             },
             {
-              "unversionedId": "bab-empat/manage-docs-versions",
-              "id": "bab-empat/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/bab-empat/manage-docs-versions.md",
-              "sourceDirName": "bab-empat",
-              "slug": "/bab-empat/manage-docs-versions",
-              "permalink": "/docs/bab-empat/manage-docs-versions",
+              "unversionedId": "bab-empat",
+              "id": "bab-empat",
+              "title": "Bab 4 - Ketentuan Umum",
+              "description": "Pasal 1 - Pengertian",
+              "source": "@site/docs/bab-empat.md",
+              "sourceDirName": ".",
+              "slug": "/bab-empat",
+              "permalink": "/docs/bab-empat",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-empat/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-empat.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Bab 4 - Ketentuan Umum",
-                "permalink": "/docs/category/bab-4---ketentuan-umum"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/bab-empat/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "bab-empat/translate-your-site",
-              "id": "bab-empat/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/bab-empat/translate-your-site.md",
-              "sourceDirName": "bab-empat",
-              "slug": "/bab-empat/translate-your-site",
-              "permalink": "/docs/bab-empat/translate-your-site",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-empat/translate-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/bab-empat/manage-docs-versions"
+                "title": "Bab 3 - Azas Umum",
+                "permalink": "/docs/bab-tiga"
               },
               "next": {
                 "title": "Bab 5 - Kegiatan Belajar Mengajar",
@@ -211,8 +184,8 @@
             {
               "unversionedId": "bab-lima/manage-docs-versions",
               "id": "bab-lima/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
+              "title": "Pasal 2 - Waktu Belajar",
+              "description": "1. Hari belajar di SMP Islam Al Azhar 22 adalah hari Senin sampai dengan Jum’at kecuali hari-hari yang diliburkan menurut ketentuan nasional, YPI Al Azhar dan ketentuan SMP Islam Al Azhar 22 Sentra Primer.",
               "source": "@site/docs/bab-lima/manage-docs-versions.md",
               "sourceDirName": "bab-lima",
               "slug": "/bab-lima/manage-docs-versions",
@@ -254,7 +227,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
+                "title": "Pasal 2 - Waktu Belajar",
                 "permalink": "/docs/bab-lima/manage-docs-versions"
               },
               "next": {
@@ -421,7 +394,7 @@
               },
               "next": {
                 "title": "Bab 4 - Ketentuan Umum",
-                "permalink": "/docs/category/bab-4---ketentuan-umum"
+                "permalink": "/docs/bab-empat"
               }
             },
             {
@@ -545,25 +518,8 @@
                 "id": "bab-tiga"
               },
               {
-                "type": "category",
-                "label": "Bab 4 - Ketentuan Umum",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "bab-empat/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "bab-empat/translate-your-site"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/bab-4---ketentuan-umum",
-                  "permalink": "/docs/category/bab-4---ketentuan-umum"
-                }
+                "type": "doc",
+                "id": "bab-empat"
               },
               {
                 "type": "category",
