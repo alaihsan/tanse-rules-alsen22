@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Visi dan Misi",
+  "description": "Mari jelajahi visi dan misi SMPIA 22 dalam waktu kurang dari 5 menit.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
