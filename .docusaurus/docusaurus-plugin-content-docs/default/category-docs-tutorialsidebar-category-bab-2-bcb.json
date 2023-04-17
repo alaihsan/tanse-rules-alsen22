@@ -1,0 +1,15 @@
+{
+  "title": "Bab 2",
+  "slug": "/category/bab-2",
+  "permalink": "/docs/category/bab-2",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/bab-satu/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/bab-dua/manage-docs-versions"
+    }
+  }
+}

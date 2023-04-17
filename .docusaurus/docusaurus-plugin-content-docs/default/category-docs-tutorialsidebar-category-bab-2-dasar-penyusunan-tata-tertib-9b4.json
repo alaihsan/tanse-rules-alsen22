@@ -1,0 +1,15 @@
+{
+  "title": "Bab 2 - Dasar Penyusunan Tata Tertib",
+  "slug": "/category/bab-2---dasar-penyusunan-tata-tertib",
+  "permalink": "/docs/category/bab-2---dasar-penyusunan-tata-tertib",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/bab-satu/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/bab-dua/manage-docs-versions"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Bab 2",
+  "slug": "/category/bab-2-2",
+  "permalink": "/docs/category/bab-2-2",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/bab-empat/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/bab-tiga/manage-docs-versions"
+    }
+  }
+}

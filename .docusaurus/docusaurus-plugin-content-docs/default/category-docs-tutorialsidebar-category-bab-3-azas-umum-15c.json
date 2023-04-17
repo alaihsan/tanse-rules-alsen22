@@ -1,0 +1,15 @@
+{
+  "title": "Bab 3 - Azas Umum",
+  "slug": "/category/bab-3---azas-umum",
+  "permalink": "/docs/category/bab-3---azas-umum",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/bab-dua/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/bab-tiga/manage-docs-versions"
+    }
+  }
+}

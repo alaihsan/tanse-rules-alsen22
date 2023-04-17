@@ -19,5 +19,9 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/docs/bab-dua/manage-docs-versions"
+  },
+  "next": {
+    "title": "Bab 3 - Azas Umum",
+    "permalink": "/docs/category/bab-3---azas-umum"
   }
 }

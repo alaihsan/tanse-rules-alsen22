@@ -20,6 +20,677 @@
           "contentPathLocalized": "/home/ihsan/dev/tanse-rules-alsen22/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "bab-delapan/manage-docs-versions",
+              "id": "bab-delapan/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-delapan/manage-docs-versions.md",
+              "sourceDirName": "bab-delapan",
+              "slug": "/bab-delapan/manage-docs-versions",
+              "permalink": "/docs/bab-delapan/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-delapan/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 8 - hak dan Kewajiban Murid",
+                "permalink": "/docs/category/bab-8---hak-dan-kewajiban-murid"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-delapan/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-delapan/translate-your-site",
+              "id": "bab-delapan/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-delapan/translate-your-site.md",
+              "sourceDirName": "bab-delapan",
+              "slug": "/bab-delapan/translate-your-site",
+              "permalink": "/docs/bab-delapan/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-delapan/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-delapan/manage-docs-versions"
+              },
+              "next": {
+                "title": "Bab 9 - Mekanisme Sanksi Pelanggaran Tartib",
+                "permalink": "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib"
+              }
+            },
+            {
+              "unversionedId": "bab-dua/manage-docs-versions",
+              "id": "bab-dua/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-dua/manage-docs-versions.md",
+              "sourceDirName": "bab-dua",
+              "slug": "/bab-dua/manage-docs-versions",
+              "permalink": "/docs/bab-dua/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-dua/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 2 - Dasar Penyusunan Tata Tertib",
+                "permalink": "/docs/category/bab-2---dasar-penyusunan-tata-tertib"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-dua/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-dua/translate-your-site",
+              "id": "bab-dua/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-dua/translate-your-site.md",
+              "sourceDirName": "bab-dua",
+              "slug": "/bab-dua/translate-your-site",
+              "permalink": "/docs/bab-dua/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-dua/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-dua/manage-docs-versions"
+              },
+              "next": {
+                "title": "Bab 3 - Azas Umum",
+                "permalink": "/docs/category/bab-3---azas-umum"
+              }
+            },
+            {
+              "unversionedId": "bab-empat/manage-docs-versions",
+              "id": "bab-empat/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-empat/manage-docs-versions.md",
+              "sourceDirName": "bab-empat",
+              "slug": "/bab-empat/manage-docs-versions",
+              "permalink": "/docs/bab-empat/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-empat/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 4 - Ketentuan Umum",
+                "permalink": "/docs/category/bab-4---ketentuan-umum"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-empat/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-empat/translate-your-site",
+              "id": "bab-empat/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-empat/translate-your-site.md",
+              "sourceDirName": "bab-empat",
+              "slug": "/bab-empat/translate-your-site",
+              "permalink": "/docs/bab-empat/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-empat/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-empat/manage-docs-versions"
+              },
+              "next": {
+                "title": "Bab 5 - Kegiatan Belajar Mengajar",
+                "permalink": "/docs/category/bab-5---kegiatan-belajar-mengajar"
+              }
+            },
+            {
+              "unversionedId": "bab-enam/manage-docs-versions",
+              "id": "bab-enam/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-enam/manage-docs-versions.md",
+              "sourceDirName": "bab-enam",
+              "slug": "/bab-enam/manage-docs-versions",
+              "permalink": "/docs/bab-enam/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 6 - Sarana dan Prasarana",
+                "permalink": "/docs/category/bab-6---sarana-dan-prasarana"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-enam/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-enam/translate-your-site",
+              "id": "bab-enam/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-enam/translate-your-site.md",
+              "sourceDirName": "bab-enam",
+              "slug": "/bab-enam/translate-your-site",
+              "permalink": "/docs/bab-enam/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-enam/manage-docs-versions"
+              },
+              "next": {
+                "title": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
+                "permalink": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
+              }
+            },
+            {
+              "unversionedId": "bab-lima/manage-docs-versions",
+              "id": "bab-lima/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-lima/manage-docs-versions.md",
+              "sourceDirName": "bab-lima",
+              "slug": "/bab-lima/manage-docs-versions",
+              "permalink": "/docs/bab-lima/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 5 - Kegiatan Belajar Mengajar",
+                "permalink": "/docs/category/bab-5---kegiatan-belajar-mengajar"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-lima/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-lima/translate-your-site",
+              "id": "bab-lima/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-lima/translate-your-site.md",
+              "sourceDirName": "bab-lima",
+              "slug": "/bab-lima/translate-your-site",
+              "permalink": "/docs/bab-lima/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-lima/manage-docs-versions"
+              },
+              "next": {
+                "title": "Bab 6 - Sarana dan Prasarana",
+                "permalink": "/docs/category/bab-6---sarana-dan-prasarana"
+              }
+            },
+            {
+              "unversionedId": "bab-satu/congratulations",
+              "id": "bab-satu/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/bab-satu/congratulations.md",
+              "sourceDirName": "bab-satu",
+              "slug": "/bab-satu/congratulations",
+              "permalink": "/docs/bab-satu/congratulations",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-satu/congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/docs/bab-satu/deploy-your-site"
+              },
+              "next": {
+                "title": "Bab 2 - Dasar Penyusunan Tata Tertib",
+                "permalink": "/docs/category/bab-2---dasar-penyusunan-tata-tertib"
+              }
+            },
+            {
+              "unversionedId": "bab-satu/create-a-blog-post",
+              "id": "bab-satu/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/bab-satu/create-a-blog-post.md",
+              "sourceDirName": "bab-satu",
+              "slug": "/bab-satu/create-a-blog-post",
+              "permalink": "/docs/bab-satu/create-a-blog-post",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-satu/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/bab-satu/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/bab-satu/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "bab-satu/create-a-document",
+              "id": "bab-satu/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/bab-satu/create-a-document.md",
+              "sourceDirName": "bab-satu",
+              "slug": "/bab-satu/create-a-document",
+              "permalink": "/docs/bab-satu/create-a-document",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-satu/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/docs/bab-satu/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/bab-satu/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "bab-satu/create-a-page",
+              "id": "bab-satu/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/bab-satu/create-a-page.md",
+              "sourceDirName": "bab-satu",
+              "slug": "/bab-satu/create-a-page",
+              "permalink": "/docs/bab-satu/create-a-page",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-satu/create-a-page.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 1 - Pendahuluan",
+                "permalink": "/docs/category/bab-1---pendahuluan"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/bab-satu/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "bab-satu/deploy-your-site",
+              "id": "bab-satu/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/bab-satu/deploy-your-site.md",
+              "sourceDirName": "bab-satu",
+              "slug": "/bab-satu/deploy-your-site",
+              "permalink": "/docs/bab-satu/deploy-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-satu/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/bab-satu/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/bab-satu/congratulations"
+              }
+            },
+            {
+              "unversionedId": "bab-satu/markdown-features",
+              "id": "bab-satu/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/bab-satu/markdown-features.mdx",
+              "sourceDirName": "bab-satu",
+              "slug": "/bab-satu/markdown-features",
+              "permalink": "/docs/bab-satu/markdown-features",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-satu/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/bab-satu/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/bab-satu/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-sembilan/manage-docs-versions",
+              "id": "bab-sembilan/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-sembilan/manage-docs-versions.md",
+              "sourceDirName": "bab-sembilan",
+              "slug": "/bab-sembilan/manage-docs-versions",
+              "permalink": "/docs/bab-sembilan/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sembilan/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 9 - Mekanisme Sanksi Pelanggaran Tartib",
+                "permalink": "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-sembilan/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-sembilan/translate-your-site",
+              "id": "bab-sembilan/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-sembilan/translate-your-site.md",
+              "sourceDirName": "bab-sembilan",
+              "slug": "/bab-sembilan/translate-your-site",
+              "permalink": "/docs/bab-sembilan/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sembilan/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-sembilan/manage-docs-versions"
+              },
+              "next": {
+                "title": "Bab 10 - Penutup",
+                "permalink": "/docs/category/bab-10---penutup"
+              }
+            },
+            {
+              "unversionedId": "bab-sepuluh/manage-docs-versions",
+              "id": "bab-sepuluh/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-sepuluh/manage-docs-versions.md",
+              "sourceDirName": "bab-sepuluh",
+              "slug": "/bab-sepuluh/manage-docs-versions",
+              "permalink": "/docs/bab-sepuluh/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sepuluh/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 10 - Penutup",
+                "permalink": "/docs/category/bab-10---penutup"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-sepuluh/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-sepuluh/translate-your-site",
+              "id": "bab-sepuluh/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-sepuluh/translate-your-site.md",
+              "sourceDirName": "bab-sepuluh",
+              "slug": "/bab-sepuluh/translate-your-site",
+              "permalink": "/docs/bab-sepuluh/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sepuluh/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-sepuluh/manage-docs-versions"
+              },
+              "next": {
+                "title": "Format Penanganan",
+                "permalink": "/docs/Format Penanganan"
+              }
+            },
+            {
+              "unversionedId": "bab-tiga/manage-docs-versions",
+              "id": "bab-tiga/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-tiga/manage-docs-versions.md",
+              "sourceDirName": "bab-tiga",
+              "slug": "/bab-tiga/manage-docs-versions",
+              "permalink": "/docs/bab-tiga/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tiga/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 3 - Azas Umum",
+                "permalink": "/docs/category/bab-3---azas-umum"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-tiga/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-tiga/translate-your-site",
+              "id": "bab-tiga/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-tiga/translate-your-site.md",
+              "sourceDirName": "bab-tiga",
+              "slug": "/bab-tiga/translate-your-site",
+              "permalink": "/docs/bab-tiga/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tiga/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-tiga/manage-docs-versions"
+              },
+              "next": {
+                "title": "Bab 4 - Ketentuan Umum",
+                "permalink": "/docs/category/bab-4---ketentuan-umum"
+              }
+            },
+            {
+              "unversionedId": "bab-tujuh/manage-docs-versions",
+              "id": "bab-tujuh/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/bab-tujuh/manage-docs-versions.md",
+              "sourceDirName": "bab-tujuh",
+              "slug": "/bab-tujuh/manage-docs-versions",
+              "permalink": "/docs/bab-tujuh/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
+                "permalink": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-tujuh/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "bab-tujuh/translate-your-site",
+              "id": "bab-tujuh/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/bab-tujuh/translate-your-site.md",
+              "sourceDirName": "bab-tujuh",
+              "slug": "/bab-tujuh/translate-your-site",
+              "permalink": "/docs/bab-tujuh/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/bab-tujuh/manage-docs-versions"
+              },
+              "next": {
+                "title": "Bab 8 - hak dan Kewajiban Murid",
+                "permalink": "/docs/category/bab-8---hak-dan-kewajiban-murid"
+              }
+            },
+            {
+              "unversionedId": "Format Penanganan",
+              "id": "Format Penanganan",
+              "title": "Format Penanganan",
+              "description": "MURID DALAM MASALAH PELANGGARAN TATA TERTIB SMP ISLAM AL AZHAR 22 SENTRA PRIMER",
+              "source": "@site/docs/Format Penanganan.md",
+              "sourceDirName": ".",
+              "slug": "/Format Penanganan",
+              "permalink": "/docs/Format Penanganan",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Format Penanganan.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/docs/bab-sepuluh/translate-your-site"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Visi dan Misi",
@@ -38,220 +709,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Bab Satu",
-                "permalink": "/docs/category/bab-satu"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Bab Satu",
-                "permalink": "/docs/category/bab-satu"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "title": "Bab 1 - Pendahuluan",
+                "permalink": "/docs/category/bab-1---pendahuluan"
               }
             }
           ],
@@ -264,62 +723,234 @@
               },
               {
                 "type": "category",
-                "label": "Bab Satu",
+                "label": "Bab 1 - Pendahuluan",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "bab-satu/create-a-page"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "bab-satu/create-a-document"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
+                    "id": "bab-satu/create-a-blog-post"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
+                    "id": "bab-satu/markdown-features"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
+                    "id": "bab-satu/deploy-your-site"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "bab-satu/congratulations"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/bab-satu",
-                  "permalink": "/docs/category/bab-satu"
+                  "slug": "/category/bab-1---pendahuluan",
+                  "permalink": "/docs/category/bab-1---pendahuluan"
                 }
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "Bab 2 - Dasar Penyusunan Tata Tertib",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "id": "bab-dua/manage-docs-versions"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "bab-dua/translate-your-site"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
+                  "slug": "/category/bab-2---dasar-penyusunan-tata-tertib",
+                  "permalink": "/docs/category/bab-2---dasar-penyusunan-tata-tertib"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Bab 3 - Azas Umum",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bab-tiga/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-tiga/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/bab-3---azas-umum",
+                  "permalink": "/docs/category/bab-3---azas-umum"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Bab 4 - Ketentuan Umum",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bab-empat/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-empat/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/bab-4---ketentuan-umum",
+                  "permalink": "/docs/category/bab-4---ketentuan-umum"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Bab 5 - Kegiatan Belajar Mengajar",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bab-lima/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-lima/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/bab-5---kegiatan-belajar-mengajar",
+                  "permalink": "/docs/category/bab-5---kegiatan-belajar-mengajar"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Bab 6 - Sarana dan Prasarana",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bab-enam/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-enam/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/bab-6---sarana-dan-prasarana",
+                  "permalink": "/docs/category/bab-6---sarana-dan-prasarana"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bab-tujuh/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-tujuh/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah",
+                  "permalink": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Bab 8 - hak dan Kewajiban Murid",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bab-delapan/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-delapan/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/bab-8---hak-dan-kewajiban-murid",
+                  "permalink": "/docs/category/bab-8---hak-dan-kewajiban-murid"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Bab 9 - Mekanisme Sanksi Pelanggaran Tartib",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bab-sembilan/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-sembilan/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/bab-9---mekanisme-sanksi-pelanggaran-tartib",
+                  "permalink": "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Bab 10 - Penutup",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bab-sepuluh/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-sepuluh/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/bab-10---penutup",
+                  "permalink": "/docs/category/bab-10---penutup"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "Format Penanganan"
               }
             ]
           }

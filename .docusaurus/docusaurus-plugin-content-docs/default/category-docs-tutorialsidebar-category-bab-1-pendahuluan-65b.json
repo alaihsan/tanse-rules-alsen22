@@ -1,0 +1,16 @@
+{
+  "title": "Bab 1 - Pendahuluan",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/bab-1---pendahuluan",
+  "permalink": "/docs/category/bab-1---pendahuluan",
+  "navigation": {
+    "previous": {
+      "title": "Visi dan Misi",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/docs/bab-satu/create-a-page"
+    }
+  }
+}

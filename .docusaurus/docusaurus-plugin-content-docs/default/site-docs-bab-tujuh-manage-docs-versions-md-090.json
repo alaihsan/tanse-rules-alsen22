@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-tujuh/manage-docs-versions",
+  "id": "bab-tujuh/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/bab-tujuh/manage-docs-versions.md",
+  "sourceDirName": "bab-tujuh",
+  "slug": "/bab-tujuh/manage-docs-versions",
+  "permalink": "/docs/bab-tujuh/manage-docs-versions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
+    "permalink": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/bab-tujuh/translate-your-site"
+  }
+}

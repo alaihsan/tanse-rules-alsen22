@@ -1,0 +1,15 @@
+{
+  "title": "Bab 4 - Ketentuan Umum",
+  "slug": "/category/bab-4---ketentuan-umum",
+  "permalink": "/docs/category/bab-4---ketentuan-umum",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/bab-tiga/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/bab-empat/manage-docs-versions"
+    }
+  }
+}

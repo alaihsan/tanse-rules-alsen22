@@ -1,0 +1,23 @@
+{
+  "unversionedId": "bab-lima copy/translate-your-site",
+  "id": "bab-lima copy/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/bab-lima copy/translate-your-site.md",
+  "sourceDirName": "bab-lima copy",
+  "slug": "/bab-lima copy/translate-your-site",
+  "permalink": "/docs/bab-lima copy/translate-your-site",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima copy/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/bab-lima copy/manage-docs-versions"
+  }
+}

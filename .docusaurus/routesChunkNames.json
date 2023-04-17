@@ -186,56 +186,156 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-842": {
+  "/docs-a99": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-9-b-8-466"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/category/bab-satu-67d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-satu-9-d-6-47d"
+  "/docs/bab-delapan/manage-docs-versions-a80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-delapan-manage-docs-versionse-31-725"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/docs/bab-delapan/translate-your-site-1d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-delapan-translate-your-site-7-c-6-723"
+  },
+  "/docs/bab-dua/manage-docs-versions-fe8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-dua-manage-docs-versionsfc-9-474"
+  },
+  "/docs/bab-dua/translate-your-site-59e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-dua-translate-your-sitee-10-b35"
+  },
+  "/docs/bab-empat/manage-docs-versions-676": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-empat-manage-docs-versions-9-db-6e3"
+  },
+  "/docs/bab-empat/translate-your-site-312": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-empat-translate-your-sitea-24-60d"
+  },
+  "/docs/bab-enam/manage-docs-versions-4d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-enam-manage-docs-versions-94-d-7b8"
+  },
+  "/docs/bab-enam/translate-your-site-06a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-enam-translate-your-site-932-eb6"
+  },
+  "/docs/bab-lima/manage-docs-versions-8ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-lima-manage-docs-versions-084-d34"
+  },
+  "/docs/bab-lima/translate-your-site-4f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-lima-translate-your-siteb-7-c-b42"
+  },
+  "/docs/bab-satu/congratulations-038": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-satu-congratulations-489-ee6"
+  },
+  "/docs/bab-satu/create-a-blog-post-146": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-satu-create-a-blog-post-677-6f4"
+  },
+  "/docs/bab-satu/create-a-document-27f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-satu-create-a-documente-04-25a"
+  },
+  "/docs/bab-satu/create-a-page-094": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-satu-create-a-page-62-a-f60"
+  },
+  "/docs/bab-satu/deploy-your-site-043": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-satu-deploy-your-site-1-e-5-7cf"
+  },
+  "/docs/bab-satu/markdown-features-494": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-satu-markdown-features-40-c-503"
+  },
+  "/docs/bab-sembilan/manage-docs-versions-8be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-sembilan-manage-docs-versions-400-ab9"
+  },
+  "/docs/bab-sembilan/translate-your-site-e72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-sembilan-translate-your-site-924-bda"
+  },
+  "/docs/bab-sepuluh/manage-docs-versions-901": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-sepuluh-manage-docs-versionsf-87-c61"
+  },
+  "/docs/bab-sepuluh/translate-your-site-bc7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-sepuluh-translate-your-sitef-2-a-b1a"
+  },
+  "/docs/bab-tiga/manage-docs-versions-89b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-tiga-manage-docs-versions-0-a-9-428"
+  },
+  "/docs/bab-tiga/translate-your-site-230": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-tiga-translate-your-site-9-ab-6fc"
+  },
+  "/docs/bab-tujuh/manage-docs-versions-e48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-tujuh-manage-docs-versions-090-56a"
+  },
+  "/docs/bab-tujuh/translate-your-site-6c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-tujuh-translate-your-site-2-ad-561"
+  },
+  "/docs/category/bab-1---pendahuluan-626": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-1-pendahuluan-20-e-8be"
+  },
+  "/docs/category/bab-10---penutup-06b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-10-penutupff-4-8fb"
+  },
+  "/docs/category/bab-2---dasar-penyusunan-tata-tertib-677": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-2-dasar-penyusunan-tata-tertibd-7-e-083"
+  },
+  "/docs/category/bab-3---azas-umum-04f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-3-azas-umumc-52-7fb"
+  },
+  "/docs/category/bab-4---ketentuan-umum-e2f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-4-ketentuan-umum-991-29a"
+  },
+  "/docs/category/bab-5---kegiatan-belajar-mengajar-23e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-5-kegiatan-belajar-mengajara-94-b6c"
+  },
+  "/docs/category/bab-6---sarana-dan-prasarana-0b7": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-6-sarana-dan-prasaranaa-25-145"
+  },
+  "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah-086": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-7-hubungan-dengan-guru-pegawai-dan-pelatih-sekolahcc-5-15e"
+  },
+  "/docs/category/bab-8---hak-dan-kewajiban-murid-1f9": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-8-hak-dan-kewajiban-murid-624-1b0"
+  },
+  "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib-19c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-9-mekanisme-sanksi-pelanggaran-tartib-344-d69"
+  },
+  "/docs/Format Penanganan-807": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-format-penanganan-4-a-0-799"
   },
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
-  },
-  "/docs/tutorial-basics/congratulations-793": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
-  },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
   "/-660": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

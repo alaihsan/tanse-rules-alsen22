@@ -11,58 +11,183 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "bab-delapan/manage-docs-versions",
+              "path": "/docs/bab-delapan/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-delapan/translate-your-site",
+              "path": "/docs/bab-delapan/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-dua/manage-docs-versions",
+              "path": "/docs/bab-dua/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-dua/translate-your-site",
+              "path": "/docs/bab-dua/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-empat/manage-docs-versions",
+              "path": "/docs/bab-empat/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-empat/translate-your-site",
+              "path": "/docs/bab-empat/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-enam/manage-docs-versions",
+              "path": "/docs/bab-enam/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-enam/translate-your-site",
+              "path": "/docs/bab-enam/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-lima/manage-docs-versions",
+              "path": "/docs/bab-lima/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-lima/translate-your-site",
+              "path": "/docs/bab-lima/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-satu/congratulations",
+              "path": "/docs/bab-satu/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-satu/create-a-blog-post",
+              "path": "/docs/bab-satu/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-satu/create-a-document",
+              "path": "/docs/bab-satu/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-satu/create-a-page",
+              "path": "/docs/bab-satu/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-satu/deploy-your-site",
+              "path": "/docs/bab-satu/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-satu/markdown-features",
+              "path": "/docs/bab-satu/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-sembilan/manage-docs-versions",
+              "path": "/docs/bab-sembilan/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-sembilan/translate-your-site",
+              "path": "/docs/bab-sembilan/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-sepuluh/manage-docs-versions",
+              "path": "/docs/bab-sepuluh/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-sepuluh/translate-your-site",
+              "path": "/docs/bab-sepuluh/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-tiga/manage-docs-versions",
+              "path": "/docs/bab-tiga/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-tiga/translate-your-site",
+              "path": "/docs/bab-tiga/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-tujuh/manage-docs-versions",
+              "path": "/docs/bab-tujuh/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-tujuh/translate-your-site",
+              "path": "/docs/bab-tujuh/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Format Penanganan",
+              "path": "/docs/Format Penanganan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "/category/bab-1---pendahuluan",
+              "path": "/docs/category/bab-1---pendahuluan",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "/category/bab-2---dasar-penyusunan-tata-tertib",
+              "path": "/docs/category/bab-2---dasar-penyusunan-tata-tertib",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "/category/bab-3---azas-umum",
+              "path": "/docs/category/bab-3---azas-umum",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "/category/bab-4---ketentuan-umum",
+              "path": "/docs/category/bab-4---ketentuan-umum",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "/category/bab-5---kegiatan-belajar-mengajar",
+              "path": "/docs/category/bab-5---kegiatan-belajar-mengajar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "/category/bab-6---sarana-dan-prasarana",
+              "path": "/docs/category/bab-6---sarana-dan-prasarana",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah",
+              "path": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "/category/bab-8---hak-dan-kewajiban-murid",
+              "path": "/docs/category/bab-8---hak-dan-kewajiban-murid",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/bab-satu",
-              "path": "/docs/category/bab-satu",
+              "id": "/category/bab-9---mekanisme-sanksi-pelanggaran-tartib",
+              "path": "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/bab-10---penutup",
+              "path": "/docs/category/bab-10---penutup",
               "sidebar": "tutorialSidebar"
             }
           ],

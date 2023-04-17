@@ -93,7 +93,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tata Tertib',
+                label: 'Tata Tertib Tanse',
                 to: '/docs/intro',
               },
             ],

@@ -17,125 +17,401 @@
       },
       {
         "type": "category",
-        "label": "Bab Satu",
+        "label": "Bab 1 - Pendahuluan",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
+            "href": "/docs/bab-satu/create-a-page",
+            "docId": "bab-satu/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
+            "href": "/docs/bab-satu/create-a-document",
+            "docId": "bab-satu/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
+            "href": "/docs/bab-satu/create-a-blog-post",
+            "docId": "bab-satu/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
+            "href": "/docs/bab-satu/markdown-features",
+            "docId": "bab-satu/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
+            "href": "/docs/bab-satu/deploy-your-site",
+            "docId": "bab-satu/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
+            "href": "/docs/bab-satu/congratulations",
+            "docId": "bab-satu/congratulations"
           }
         ],
-        "href": "/docs/category/bab-satu"
+        "href": "/docs/category/bab-1---pendahuluan"
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Bab 2 - Dasar Penyusunan Tata Tertib",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
+            "href": "/docs/bab-dua/manage-docs-versions",
+            "docId": "bab-dua/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
+            "href": "/docs/bab-dua/translate-your-site",
+            "docId": "bab-dua/translate-your-site"
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/docs/category/bab-2---dasar-penyusunan-tata-tertib"
+      },
+      {
+        "type": "category",
+        "label": "Bab 3 - Azas Umum",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/bab-tiga/manage-docs-versions",
+            "docId": "bab-tiga/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/bab-tiga/translate-your-site",
+            "docId": "bab-tiga/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/bab-3---azas-umum"
+      },
+      {
+        "type": "category",
+        "label": "Bab 4 - Ketentuan Umum",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/bab-empat/manage-docs-versions",
+            "docId": "bab-empat/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/bab-empat/translate-your-site",
+            "docId": "bab-empat/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/bab-4---ketentuan-umum"
+      },
+      {
+        "type": "category",
+        "label": "Bab 5 - Kegiatan Belajar Mengajar",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/bab-lima/manage-docs-versions",
+            "docId": "bab-lima/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/bab-lima/translate-your-site",
+            "docId": "bab-lima/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/bab-5---kegiatan-belajar-mengajar"
+      },
+      {
+        "type": "category",
+        "label": "Bab 6 - Sarana dan Prasarana",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/bab-enam/manage-docs-versions",
+            "docId": "bab-enam/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/bab-enam/translate-your-site",
+            "docId": "bab-enam/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/bab-6---sarana-dan-prasarana"
+      },
+      {
+        "type": "category",
+        "label": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/bab-tujuh/manage-docs-versions",
+            "docId": "bab-tujuh/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/bab-tujuh/translate-your-site",
+            "docId": "bab-tujuh/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
+      },
+      {
+        "type": "category",
+        "label": "Bab 8 - hak dan Kewajiban Murid",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/bab-delapan/manage-docs-versions",
+            "docId": "bab-delapan/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/bab-delapan/translate-your-site",
+            "docId": "bab-delapan/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/bab-8---hak-dan-kewajiban-murid"
+      },
+      {
+        "type": "category",
+        "label": "Bab 9 - Mekanisme Sanksi Pelanggaran Tartib",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/bab-sembilan/manage-docs-versions",
+            "docId": "bab-sembilan/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/bab-sembilan/translate-your-site",
+            "docId": "bab-sembilan/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib"
+      },
+      {
+        "type": "category",
+        "label": "Bab 10 - Penutup",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/bab-sepuluh/manage-docs-versions",
+            "docId": "bab-sepuluh/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/bab-sepuluh/translate-your-site",
+            "docId": "bab-sepuluh/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/bab-10---penutup"
+      },
+      {
+        "type": "link",
+        "label": "Format Penanganan",
+        "href": "/docs/Format Penanganan",
+        "docId": "Format Penanganan"
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Visi dan Misi",
-      "description": "Mari jelajahi visi dan misi SMPIA 22 dalam waktu kurang dari 5 menit.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
+    "bab-delapan/manage-docs-versions": {
+      "id": "bab-delapan/manage-docs-versions",
       "title": "Manage Docs Versions",
       "description": "Docusaurus can manage multiple versions of your docs.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
+    "bab-delapan/translate-your-site": {
+      "id": "bab-delapan/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-dua/manage-docs-versions": {
+      "id": "bab-dua/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-dua/translate-your-site": {
+      "id": "bab-dua/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-empat/manage-docs-versions": {
+      "id": "bab-empat/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-empat/translate-your-site": {
+      "id": "bab-empat/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-enam/manage-docs-versions": {
+      "id": "bab-enam/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-enam/translate-your-site": {
+      "id": "bab-enam/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-lima/manage-docs-versions": {
+      "id": "bab-lima/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-lima/translate-your-site": {
+      "id": "bab-lima/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-satu/congratulations": {
+      "id": "bab-satu/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-satu/create-a-blog-post": {
+      "id": "bab-satu/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-satu/create-a-document": {
+      "id": "bab-satu/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-satu/create-a-page": {
+      "id": "bab-satu/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-satu/deploy-your-site": {
+      "id": "bab-satu/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-satu/markdown-features": {
+      "id": "bab-satu/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-sembilan/manage-docs-versions": {
+      "id": "bab-sembilan/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-sembilan/translate-your-site": {
+      "id": "bab-sembilan/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-sepuluh/manage-docs-versions": {
+      "id": "bab-sepuluh/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-sepuluh/translate-your-site": {
+      "id": "bab-sepuluh/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-tiga/manage-docs-versions": {
+      "id": "bab-tiga/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-tiga/translate-your-site": {
+      "id": "bab-tiga/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-tujuh/manage-docs-versions": {
+      "id": "bab-tujuh/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-tujuh/translate-your-site": {
+      "id": "bab-tujuh/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Format Penanganan": {
+      "id": "Format Penanganan",
+      "title": "Format Penanganan",
+      "description": "MURID DALAM MASALAH PELANGGARAN TATA TERTIB SMP ISLAM AL AZHAR 22 SENTRA PRIMER",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Visi dan Misi",
+      "description": "Mari jelajahi visi dan misi SMPIA 22 dalam waktu kurang dari 5 menit.",
       "sidebar": "tutorialSidebar"
     }
   }

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro copy",
+  "id": "intro copy",
+  "title": "Visi dan Misi",
+  "description": "Mari jelajahi visi dan misi SMPIA 22 dalam waktu kurang dari 5 menit.",
+  "source": "@site/docs/intro copy.md",
+  "sourceDirName": ".",
+  "slug": "/intro copy",
+  "permalink": "/docs/intro copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Visi dan Misi",
+    "permalink": "/docs/intro"
+  }
+}

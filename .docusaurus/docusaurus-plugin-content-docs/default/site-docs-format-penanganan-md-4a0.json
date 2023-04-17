@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Format Penanganan",
+  "id": "Format Penanganan",
+  "title": "Format Penanganan",
+  "description": "MURID DALAM MASALAH PELANGGARAN TATA TERTIB SMP ISLAM AL AZHAR 22 SENTRA PRIMER",
+  "source": "@site/docs/Format Penanganan.md",
+  "sourceDirName": ".",
+  "slug": "/Format Penanganan",
+  "permalink": "/docs/Format Penanganan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Format Penanganan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/bab-sepuluh/translate-your-site"
+  }
+}
