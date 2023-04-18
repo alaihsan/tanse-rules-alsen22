@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-lima/pasal6",
+  "id": "bab-lima/pasal6",
+  "title": "Pasal 6 - Tugas, Pekerjaan Rumah, Ulangan, Ujian dan Remedial",
+  "description": "1. Murid yang diharuskan untuk mengerjakan tugas atau pekerjaan rumah sebagaimana mestinya dan dikumpulkan kepada guru pengajar sesuai dengan waktu yang ditentukan.",
+  "source": "@site/docs/bab-lima/pasal6.md",
+  "sourceDirName": "bab-lima",
+  "slug": "/bab-lima/pasal6",
+  "permalink": "/docs/bab-lima/pasal6",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal6.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 5 - Kebersihan keindahan dan Kesehatan",
+    "permalink": "/docs/bab-lima/pasal5"
+  },
+  "next": {
+    "title": "Pasal 7 - Kegiatan Shalat Berjamaah",
+    "permalink": "/docs/bab-lima/pasal7"
+  }
+}

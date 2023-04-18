@@ -1,0 +1,15 @@
+{
+  "title": "Bab 8 - hak dan Kewajiban Murid",
+  "slug": "/category/bab-8---hak-dan-kewajiban-murid",
+  "permalink": "/http://localhost:3000/docs/intro/docs/category/bab-8---hak-dan-kewajiban-murid",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/http://localhost:3000/docs/intro/docs/bab-tujuh/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/http://localhost:3000/docs/intro/docs/bab-delapan/manage-docs-versions"
+    }
+  }
+}

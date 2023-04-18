@@ -48,14 +48,38 @@
           {
             "type": "link",
             "label": "Pasal 2 - Waktu Belajar",
-            "href": "/docs/bab-lima/manage-docs-versions",
-            "docId": "bab-lima/manage-docs-versions"
+            "href": "/docs/bab-lima/pasal2",
+            "docId": "bab-lima/pasal2"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/bab-lima/translate-your-site",
-            "docId": "bab-lima/translate-your-site"
+            "label": "Pasal 3 - Pakaian Seragam Sekolah",
+            "href": "/docs/bab-lima/pasal3",
+            "docId": "bab-lima/pasal3"
+          },
+          {
+            "type": "link",
+            "label": "Pasal 4 - Kegiatan Belajar",
+            "href": "/docs/bab-lima/pasal4",
+            "docId": "bab-lima/pasal4"
+          },
+          {
+            "type": "link",
+            "label": "Pasal 5 - Kebersihan keindahan dan Kesehatan",
+            "href": "/docs/bab-lima/pasal5",
+            "docId": "bab-lima/pasal5"
+          },
+          {
+            "type": "link",
+            "label": "Pasal 6 - Tugas, Pekerjaan Rumah, Ulangan, Ujian dan Remedial",
+            "href": "/docs/bab-lima/pasal6",
+            "docId": "bab-lima/pasal6"
+          },
+          {
+            "type": "link",
+            "label": "Pasal 7 - Kegiatan Shalat Berjamaah",
+            "href": "/docs/bab-lima/pasal7",
+            "docId": "bab-lima/pasal7"
           }
         ],
         "href": "/docs/category/bab-5---kegiatan-belajar-mengajar"
@@ -210,16 +234,40 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
-    "bab-lima/manage-docs-versions": {
-      "id": "bab-lima/manage-docs-versions",
+    "bab-lima/pasal2": {
+      "id": "bab-lima/pasal2",
       "title": "Pasal 2 - Waktu Belajar",
       "description": "1. Hari belajar di SMP Islam Al Azhar 22 adalah hari Senin sampai dengan Jum’at kecuali hari-hari yang diliburkan menurut ketentuan nasional, YPI Al Azhar dan ketentuan SMP Islam Al Azhar 22 Sentra Primer.",
       "sidebar": "tutorialSidebar"
     },
-    "bab-lima/translate-your-site": {
-      "id": "bab-lima/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "bab-lima/pasal3": {
+      "id": "bab-lima/pasal3",
+      "title": "Pasal 3 - Pakaian Seragam Sekolah",
+      "description": "1. Jadwal seragam sekolah adalah :",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-lima/pasal4": {
+      "id": "bab-lima/pasal4",
+      "title": "Pasal 4 - Kegiatan Belajar",
+      "description": "1. Murid diharuskan untuk menjaga ketenangan dan keamanan selama kegiatan belajar mengajar berlangsung.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-lima/pasal5": {
+      "id": "bab-lima/pasal5",
+      "title": "Pasal 5 - Kebersihan keindahan dan Kesehatan",
+      "description": "1. Setiap murid wajib menjaga kebersihan, keindahan dan kesehatan dirinya.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-lima/pasal6": {
+      "id": "bab-lima/pasal6",
+      "title": "Pasal 6 - Tugas, Pekerjaan Rumah, Ulangan, Ujian dan Remedial",
+      "description": "1. Murid yang diharuskan untuk mengerjakan tugas atau pekerjaan rumah sebagaimana mestinya dan dikumpulkan kepada guru pengajar sesuai dengan waktu yang ditentukan.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bab-lima/pasal7": {
+      "id": "bab-lima/pasal7",
+      "title": "Pasal 7 - Kegiatan Shalat Berjamaah",
+      "description": "1. Sholat berjamaah adalah termasuk dalam bagian kegiatan belajar mengajar yang wajib diikuti oleh semua murid kecuali murid perempuan yang berhalangan dan murid yang sakit.",
       "sidebar": "tutorialSidebar"
     },
     "bab-satu": {

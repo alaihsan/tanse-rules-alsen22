@@ -1,0 +1,15 @@
+{
+  "title": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
+  "slug": "/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah",
+  "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/bab-enam/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/bab-tujuh/manage-docs-versions"
+    }
+  }
+}

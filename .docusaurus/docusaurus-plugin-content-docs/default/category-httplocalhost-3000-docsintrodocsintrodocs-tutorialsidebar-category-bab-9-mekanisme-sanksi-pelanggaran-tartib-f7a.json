@@ -1,0 +1,15 @@
+{
+  "title": "Bab 9 - Mekanisme Sanksi Pelanggaran Tartib",
+  "slug": "/category/bab-9---mekanisme-sanksi-pelanggaran-tartib",
+  "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/bab-delapan/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/bab-sembilan/manage-docs-versions"
+    }
+  }
+}

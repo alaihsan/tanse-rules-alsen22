@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'da1'),
+    component: ComponentCreator('/docs', 'ffb'),
     routes: [
       {
         path: '/docs/bab-delapan/manage-docs-versions',
@@ -138,14 +138,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-lima/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-lima/manage-docs-versions', '8ea'),
+        path: '/docs/bab-lima/pasal2',
+        component: ComponentCreator('/docs/bab-lima/pasal2', 'eb7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-lima/translate-your-site',
-        component: ComponentCreator('/docs/bab-lima/translate-your-site', '4f8'),
+        path: '/docs/bab-lima/pasal3',
+        component: ComponentCreator('/docs/bab-lima/pasal3', 'd8a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/bab-lima/pasal4',
+        component: ComponentCreator('/docs/bab-lima/pasal4', '940'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/bab-lima/pasal5',
+        component: ComponentCreator('/docs/bab-lima/pasal5', 'f65'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/bab-lima/pasal6',
+        component: ComponentCreator('/docs/bab-lima/pasal6', '591'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/bab-lima/pasal7',
+        component: ComponentCreator('/docs/bab-lima/pasal7', '10e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -41,13 +41,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-lima/manage-docs-versions",
-              "path": "/docs/bab-lima/manage-docs-versions",
+              "id": "bab-lima/pasal2",
+              "path": "/docs/bab-lima/pasal2",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-lima/translate-your-site",
-              "path": "/docs/bab-lima/translate-your-site",
+              "id": "bab-lima/pasal3",
+              "path": "/docs/bab-lima/pasal3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-lima/pasal4",
+              "path": "/docs/bab-lima/pasal4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-lima/pasal5",
+              "path": "/docs/bab-lima/pasal5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-lima/pasal6",
+              "path": "/docs/bab-lima/pasal6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-lima/pasal7",
+              "path": "/docs/bab-lima/pasal7",
               "sidebar": "tutorialSidebar"
             },
             {

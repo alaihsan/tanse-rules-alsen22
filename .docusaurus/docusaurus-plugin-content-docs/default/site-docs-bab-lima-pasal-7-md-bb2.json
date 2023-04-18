@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-lima/pasal7",
+  "id": "bab-lima/pasal7",
+  "title": "Pasal 7 - Kegiatan Shalat Berjamaah",
+  "description": "1. Sholat berjamaah adalah termasuk dalam bagian kegiatan belajar mengajar yang wajib diikuti oleh semua murid kecuali murid perempuan yang berhalangan dan murid yang sakit.",
+  "source": "@site/docs/bab-lima/pasal7.md",
+  "sourceDirName": "bab-lima",
+  "slug": "/bab-lima/pasal7",
+  "permalink": "/docs/bab-lima/pasal7",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal7.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 6 - Tugas, Pekerjaan Rumah, Ulangan, Ujian dan Remedial",
+    "permalink": "/docs/bab-lima/pasal6"
+  },
+  "next": {
+    "title": "Bab 6 - Sarana dan Prasarana",
+    "permalink": "/docs/category/bab-6---sarana-dan-prasarana"
+  }
+}

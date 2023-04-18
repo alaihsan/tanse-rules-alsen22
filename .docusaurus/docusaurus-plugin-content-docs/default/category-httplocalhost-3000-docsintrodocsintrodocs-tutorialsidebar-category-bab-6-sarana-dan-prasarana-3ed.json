@@ -1,0 +1,15 @@
+{
+  "title": "Bab 6 - Sarana dan Prasarana",
+  "slug": "/category/bab-6---sarana-dan-prasarana",
+  "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/category/bab-6---sarana-dan-prasarana",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/bab-lima/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/bab-enam/manage-docs-versions"
+    }
+  }
+}

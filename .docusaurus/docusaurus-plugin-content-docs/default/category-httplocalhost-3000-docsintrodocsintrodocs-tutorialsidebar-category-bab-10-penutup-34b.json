@@ -1,0 +1,15 @@
+{
+  "title": "Bab 10 - Penutup",
+  "slug": "/category/bab-10---penutup",
+  "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/category/bab-10---penutup",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/bab-sembilan/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/http://localhost:3000/docs/intro/docs/intro/docs/bab-sepuluh/manage-docs-versions"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-lima/pasal4",
+  "id": "bab-lima/pasal4",
+  "title": "Pasal 4 - Kegiatan Belajar",
+  "description": "1. Murid diharuskan untuk menjaga ketenangan dan keamanan selama kegiatan belajar mengajar berlangsung.",
+  "source": "@site/docs/bab-lima/pasal4.md",
+  "sourceDirName": "bab-lima",
+  "slug": "/bab-lima/pasal4",
+  "permalink": "/docs/bab-lima/pasal4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal4.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 3 - Pakaian Seragam Sekolah",
+    "permalink": "/docs/bab-lima/pasal3"
+  },
+  "next": {
+    "title": "Pasal 5 - Kebersihan keindahan dan Kesehatan",
+    "permalink": "/docs/bab-lima/pasal5"
+  }
+}

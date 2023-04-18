@@ -182,16 +182,16 @@
               }
             },
             {
-              "unversionedId": "bab-lima/manage-docs-versions",
-              "id": "bab-lima/manage-docs-versions",
+              "unversionedId": "bab-lima/pasal2",
+              "id": "bab-lima/pasal2",
               "title": "Pasal 2 - Waktu Belajar",
               "description": "1. Hari belajar di SMP Islam Al Azhar 22 adalah hari Senin sampai dengan Jum’at kecuali hari-hari yang diliburkan menurut ketentuan nasional, YPI Al Azhar dan ketentuan SMP Islam Al Azhar 22 Sentra Primer.",
-              "source": "@site/docs/bab-lima/manage-docs-versions.md",
+              "source": "@site/docs/bab-lima/pasal2.md",
               "sourceDirName": "bab-lima",
-              "slug": "/bab-lima/manage-docs-versions",
-              "permalink": "/docs/bab-lima/manage-docs-versions",
+              "slug": "/bab-lima/pasal2",
+              "permalink": "/docs/bab-lima/pasal2",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal2.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -204,21 +204,21 @@
                 "permalink": "/docs/category/bab-5---kegiatan-belajar-mengajar"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/bab-lima/translate-your-site"
+                "title": "Pasal 3 - Pakaian Seragam Sekolah",
+                "permalink": "/docs/bab-lima/pasal3"
               }
             },
             {
-              "unversionedId": "bab-lima/translate-your-site",
-              "id": "bab-lima/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/bab-lima/translate-your-site.md",
+              "unversionedId": "bab-lima/pasal3",
+              "id": "bab-lima/pasal3",
+              "title": "Pasal 3 - Pakaian Seragam Sekolah",
+              "description": "1. Jadwal seragam sekolah adalah :",
+              "source": "@site/docs/bab-lima/pasal3.md",
               "sourceDirName": "bab-lima",
-              "slug": "/bab-lima/translate-your-site",
-              "permalink": "/docs/bab-lima/translate-your-site",
+              "slug": "/bab-lima/pasal3",
+              "permalink": "/docs/bab-lima/pasal3",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal3.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -228,7 +228,115 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Pasal 2 - Waktu Belajar",
-                "permalink": "/docs/bab-lima/manage-docs-versions"
+                "permalink": "/docs/bab-lima/pasal2"
+              },
+              "next": {
+                "title": "Pasal 4 - Kegiatan Belajar",
+                "permalink": "/docs/bab-lima/pasal4"
+              }
+            },
+            {
+              "unversionedId": "bab-lima/pasal4",
+              "id": "bab-lima/pasal4",
+              "title": "Pasal 4 - Kegiatan Belajar",
+              "description": "1. Murid diharuskan untuk menjaga ketenangan dan keamanan selama kegiatan belajar mengajar berlangsung.",
+              "source": "@site/docs/bab-lima/pasal4.md",
+              "sourceDirName": "bab-lima",
+              "slug": "/bab-lima/pasal4",
+              "permalink": "/docs/bab-lima/pasal4",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal4.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pasal 3 - Pakaian Seragam Sekolah",
+                "permalink": "/docs/bab-lima/pasal3"
+              },
+              "next": {
+                "title": "Pasal 5 - Kebersihan keindahan dan Kesehatan",
+                "permalink": "/docs/bab-lima/pasal5"
+              }
+            },
+            {
+              "unversionedId": "bab-lima/pasal5",
+              "id": "bab-lima/pasal5",
+              "title": "Pasal 5 - Kebersihan keindahan dan Kesehatan",
+              "description": "1. Setiap murid wajib menjaga kebersihan, keindahan dan kesehatan dirinya.",
+              "source": "@site/docs/bab-lima/pasal5.md",
+              "sourceDirName": "bab-lima",
+              "slug": "/bab-lima/pasal5",
+              "permalink": "/docs/bab-lima/pasal5",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal5.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pasal 4 - Kegiatan Belajar",
+                "permalink": "/docs/bab-lima/pasal4"
+              },
+              "next": {
+                "title": "Pasal 6 - Tugas, Pekerjaan Rumah, Ulangan, Ujian dan Remedial",
+                "permalink": "/docs/bab-lima/pasal6"
+              }
+            },
+            {
+              "unversionedId": "bab-lima/pasal6",
+              "id": "bab-lima/pasal6",
+              "title": "Pasal 6 - Tugas, Pekerjaan Rumah, Ulangan, Ujian dan Remedial",
+              "description": "1. Murid yang diharuskan untuk mengerjakan tugas atau pekerjaan rumah sebagaimana mestinya dan dikumpulkan kepada guru pengajar sesuai dengan waktu yang ditentukan.",
+              "source": "@site/docs/bab-lima/pasal6.md",
+              "sourceDirName": "bab-lima",
+              "slug": "/bab-lima/pasal6",
+              "permalink": "/docs/bab-lima/pasal6",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal6.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pasal 5 - Kebersihan keindahan dan Kesehatan",
+                "permalink": "/docs/bab-lima/pasal5"
+              },
+              "next": {
+                "title": "Pasal 7 - Kegiatan Shalat Berjamaah",
+                "permalink": "/docs/bab-lima/pasal7"
+              }
+            },
+            {
+              "unversionedId": "bab-lima/pasal7",
+              "id": "bab-lima/pasal7",
+              "title": "Pasal 7 - Kegiatan Shalat Berjamaah",
+              "description": "1. Sholat berjamaah adalah termasuk dalam bagian kegiatan belajar mengajar yang wajib diikuti oleh semua murid kecuali murid perempuan yang berhalangan dan murid yang sakit.",
+              "source": "@site/docs/bab-lima/pasal7.md",
+              "sourceDirName": "bab-lima",
+              "slug": "/bab-lima/pasal7",
+              "permalink": "/docs/bab-lima/pasal7",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal7.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pasal 6 - Tugas, Pekerjaan Rumah, Ulangan, Ujian dan Remedial",
+                "permalink": "/docs/bab-lima/pasal6"
               },
               "next": {
                 "title": "Bab 6 - Sarana dan Prasarana",
@@ -529,11 +637,27 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "bab-lima/manage-docs-versions"
+                    "id": "bab-lima/pasal2"
                   },
                   {
                     "type": "doc",
-                    "id": "bab-lima/translate-your-site"
+                    "id": "bab-lima/pasal3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-lima/pasal4"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-lima/pasal5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-lima/pasal6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-lima/pasal7"
                   }
                 ],
                 "link": {

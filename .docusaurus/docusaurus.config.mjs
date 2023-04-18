@@ -44,7 +44,7 @@ export default {
     "navbar": {
       "title": "Ketahanan Sekolah SMPIA 22 ",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Tanse SMPIA 22",
         "src": "img/logo.svg"
       },
       "items": [

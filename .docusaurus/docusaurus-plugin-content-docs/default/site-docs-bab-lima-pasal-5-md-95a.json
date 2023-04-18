@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-lima/pasal5",
+  "id": "bab-lima/pasal5",
+  "title": "Pasal 5 - Kebersihan keindahan dan Kesehatan",
+  "description": "1. Setiap murid wajib menjaga kebersihan, keindahan dan kesehatan dirinya.",
+  "source": "@site/docs/bab-lima/pasal5.md",
+  "sourceDirName": "bab-lima",
+  "slug": "/bab-lima/pasal5",
+  "permalink": "/docs/bab-lima/pasal5",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-lima/pasal5.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 4 - Kegiatan Belajar",
+    "permalink": "/docs/bab-lima/pasal4"
+  },
+  "next": {
+    "title": "Pasal 6 - Tugas, Pekerjaan Rumah, Ulangan, Ujian dan Remedial",
+    "permalink": "/docs/bab-lima/pasal6"
+  }
+}

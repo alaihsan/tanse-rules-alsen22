@@ -1,0 +1,15 @@
+{
+  "title": "Bab 5 - Kegiatan Belajar Mengajar",
+  "slug": "/category/bab-5---kegiatan-belajar-mengajar",
+  "permalink": "/http://localhost:3000/docs/intro/docs/category/bab-5---kegiatan-belajar-mengajar",
+  "navigation": {
+    "previous": {
+      "title": "Bab 4 - Ketentuan Umum",
+      "permalink": "/http://localhost:3000/docs/intro/docs/bab-empat"
+    },
+    "next": {
+      "title": "Pasal 2 - Waktu Belajar",
+      "permalink": "/http://localhost:3000/docs/intro/docs/bab-lima/manage-docs-versions"
+    }
+  }
+}

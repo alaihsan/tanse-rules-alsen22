@@ -1,8 +1,8 @@
 {
   "unversionedId": "bab-lima/translate-your-site",
   "id": "bab-lima/translate-your-site",
-  "title": "Translate your site",
-  "description": "Let's translate docs/intro.md to French.",
+  "title": "Pasal 3 - Pakaian Seragam Sekolah",
+  "description": "1. Jadwal seragam sekolah adalah :",
   "source": "@site/docs/bab-lima/translate-your-site.md",
   "sourceDirName": "bab-lima",
   "slug": "/bab-lima/translate-your-site",
@@ -18,7 +18,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Pasal 2 - Waktu Belajar",
-    "permalink": "/docs/bab-lima/manage-docs-versions"
+    "permalink": "/docs/bab-lima/pasal2"
   },
   "next": {
     "title": "Bab 6 - Sarana dan Prasarana",
