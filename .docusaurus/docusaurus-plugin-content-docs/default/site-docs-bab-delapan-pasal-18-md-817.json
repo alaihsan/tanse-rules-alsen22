@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-delapan/pasal18",
+  "id": "bab-delapan/pasal18",
+  "title": "Pasal 18 - Anjuran Bagi Murid",
+  "description": "Murid sangat dianjurkan untuk :",
+  "source": "@site/docs/bab-delapan/pasal18.md",
+  "sourceDirName": "bab-delapan",
+  "slug": "/bab-delapan/pasal18",
+  "permalink": "/docs/bab-delapan/pasal18",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-delapan/pasal18.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 17 - Kewajiban Murid",
+    "permalink": "/docs/bab-delapan/pasal17"
+  },
+  "next": {
+    "title": "Bab 9 - Mekanisme Sanksi Pelanggaran Tartib",
+    "permalink": "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib"
+  }
+}

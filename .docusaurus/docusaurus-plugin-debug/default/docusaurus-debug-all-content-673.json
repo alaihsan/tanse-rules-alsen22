@@ -20,16 +20,16 @@
           "contentPathLocalized": "/home/ihsan/dev/tanse-rules-alsen22/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "bab-delapan/manage-docs-versions",
-              "id": "bab-delapan/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/bab-delapan/manage-docs-versions.md",
+              "unversionedId": "bab-delapan/pasal16",
+              "id": "bab-delapan/pasal16",
+              "title": "Pasal 16 - Hak Murid",
+              "description": "Murid memiliki hak :",
+              "source": "@site/docs/bab-delapan/pasal16.md",
               "sourceDirName": "bab-delapan",
-              "slug": "/bab-delapan/manage-docs-versions",
-              "permalink": "/docs/bab-delapan/manage-docs-versions",
+              "slug": "/bab-delapan/pasal16",
+              "permalink": "/docs/bab-delapan/pasal16",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-delapan/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-delapan/pasal16.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -42,21 +42,21 @@
                 "permalink": "/docs/category/bab-8---hak-dan-kewajiban-murid"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/bab-delapan/translate-your-site"
+                "title": "Pasal 17 - Kewajiban Murid",
+                "permalink": "/docs/bab-delapan/pasal17"
               }
             },
             {
-              "unversionedId": "bab-delapan/translate-your-site",
-              "id": "bab-delapan/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/bab-delapan/translate-your-site.md",
+              "unversionedId": "bab-delapan/pasal17",
+              "id": "bab-delapan/pasal17",
+              "title": "Pasal 17 - Kewajiban Murid",
+              "description": "Murid memiliki kewajiban :",
+              "source": "@site/docs/bab-delapan/pasal17.md",
               "sourceDirName": "bab-delapan",
-              "slug": "/bab-delapan/translate-your-site",
-              "permalink": "/docs/bab-delapan/translate-your-site",
+              "slug": "/bab-delapan/pasal17",
+              "permalink": "/docs/bab-delapan/pasal17",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-delapan/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-delapan/pasal17.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -65,8 +65,35 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/bab-delapan/manage-docs-versions"
+                "title": "Pasal 16 - Hak Murid",
+                "permalink": "/docs/bab-delapan/pasal16"
+              },
+              "next": {
+                "title": "Pasal 18 - Anjuran Bagi Murid",
+                "permalink": "/docs/bab-delapan/pasal18"
+              }
+            },
+            {
+              "unversionedId": "bab-delapan/pasal18",
+              "id": "bab-delapan/pasal18",
+              "title": "Pasal 18 - Anjuran Bagi Murid",
+              "description": "Murid sangat dianjurkan untuk :",
+              "source": "@site/docs/bab-delapan/pasal18.md",
+              "sourceDirName": "bab-delapan",
+              "slug": "/bab-delapan/pasal18",
+              "permalink": "/docs/bab-delapan/pasal18",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-delapan/pasal18.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pasal 17 - Kewajiban Murid",
+                "permalink": "/docs/bab-delapan/pasal17"
               },
               "next": {
                 "title": "Bab 9 - Mekanisme Sanksi Pelanggaran Tartib",
@@ -128,16 +155,43 @@
               }
             },
             {
-              "unversionedId": "bab-enam/manage-docs-versions",
-              "id": "bab-enam/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/bab-enam/manage-docs-versions.md",
+              "unversionedId": "bab-enam/pasal10",
+              "id": "bab-enam/pasal10",
+              "title": "Pasal 10 - Digital Class",
+              "description": "1. Setiap murid berkewajiban menjaga dan merawat perangkat device (iPad) masing-masing",
+              "source": "@site/docs/bab-enam/pasal10.md",
               "sourceDirName": "bab-enam",
-              "slug": "/bab-enam/manage-docs-versions",
-              "permalink": "/docs/bab-enam/manage-docs-versions",
+              "slug": "/bab-enam/pasal10",
+              "permalink": "/docs/bab-enam/pasal10",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/pasal10.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pasal 9 - Penggunaan handphone",
+                "permalink": "/docs/bab-enam/pasal9"
+              },
+              "next": {
+                "title": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
+                "permalink": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
+              }
+            },
+            {
+              "unversionedId": "bab-enam/pasal8",
+              "id": "bab-enam/pasal8",
+              "title": "Pasal 8 - Menjaga Sarana dan Prasarana Sekolah dan Pribadi",
+              "description": "1. Murid diwajibkan menjaga sarana dan prasarana sekolah, yayasan, pribadi, dan orang lain.",
+              "source": "@site/docs/bab-enam/pasal8.md",
+              "sourceDirName": "bab-enam",
+              "slug": "/bab-enam/pasal8",
+              "permalink": "/docs/bab-enam/pasal8",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/pasal8.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -150,21 +204,21 @@
                 "permalink": "/docs/category/bab-6---sarana-dan-prasarana"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/bab-enam/translate-your-site"
+                "title": "Pasal 9 - Penggunaan handphone",
+                "permalink": "/docs/bab-enam/pasal9"
               }
             },
             {
-              "unversionedId": "bab-enam/translate-your-site",
-              "id": "bab-enam/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/bab-enam/translate-your-site.md",
+              "unversionedId": "bab-enam/pasal9",
+              "id": "bab-enam/pasal9",
+              "title": "Pasal 9 - Penggunaan handphone",
+              "description": "1. Handphone yang diperbolehkan dibawa oleh murid, adalah handphone standar yang tidak berkamera, tidak bisa mengakses gambar atau internet dan tidak memiliki fasilitas MP3/MP4 (bukan smartphone)",
+              "source": "@site/docs/bab-enam/pasal9.md",
               "sourceDirName": "bab-enam",
-              "slug": "/bab-enam/translate-your-site",
-              "permalink": "/docs/bab-enam/translate-your-site",
+              "slug": "/bab-enam/pasal9",
+              "permalink": "/docs/bab-enam/pasal9",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/pasal9.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -173,12 +227,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/bab-enam/manage-docs-versions"
+                "title": "Pasal 8 - Menjaga Sarana dan Prasarana Sekolah dan Pribadi",
+                "permalink": "/docs/bab-enam/pasal8"
               },
               "next": {
-                "title": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
-                "permalink": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
+                "title": "Pasal 10 - Digital Class",
+                "permalink": "/docs/bab-enam/pasal10"
               }
             },
             {
@@ -371,16 +425,16 @@
               }
             },
             {
-              "unversionedId": "bab-sembilan/manage-docs-versions",
-              "id": "bab-sembilan/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/bab-sembilan/manage-docs-versions.md",
+              "unversionedId": "bab-sembilan/pasal19",
+              "id": "bab-sembilan/pasal19",
+              "title": "Pasal 19 - Akumulasi Pelanggaran",
+              "description": "Akumulasi sanksi untuk jenis pelanggaran ringan dan sedang diberikan tindakan langsung oleh pihak sekolah pada saat pelanggaran terjadi, sesuai kesepakatan yang telah di plenokan oleh pimpinan sekolah dan staf dewan guru. Jenis pelanggaran tersebut di atur bersama dan terlampir.",
+              "source": "@site/docs/bab-sembilan/pasal19.md",
               "sourceDirName": "bab-sembilan",
-              "slug": "/bab-sembilan/manage-docs-versions",
-              "permalink": "/docs/bab-sembilan/manage-docs-versions",
+              "slug": "/bab-sembilan/pasal19",
+              "permalink": "/docs/bab-sembilan/pasal19",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sembilan/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sembilan/pasal19.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -393,21 +447,21 @@
                 "permalink": "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/bab-sembilan/translate-your-site"
+                "title": "Pasal 20 - Pembinaan",
+                "permalink": "/docs/bab-sembilan/pasal20"
               }
             },
             {
-              "unversionedId": "bab-sembilan/translate-your-site",
-              "id": "bab-sembilan/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/bab-sembilan/translate-your-site.md",
+              "unversionedId": "bab-sembilan/pasal20",
+              "id": "bab-sembilan/pasal20",
+              "title": "Pasal 20 - Pembinaan",
+              "description": "Seluruh murid yang melakukan pelanggaran harus dilakukan pembinaan dari walas, guru bidang studi, staf Tanse dan atau pimpinan sekolah sebagai wujud usaha perbaikan sikap terhadap peraturan Sekolah diantaranya :",
+              "source": "@site/docs/bab-sembilan/pasal20.md",
               "sourceDirName": "bab-sembilan",
-              "slug": "/bab-sembilan/translate-your-site",
-              "permalink": "/docs/bab-sembilan/translate-your-site",
+              "slug": "/bab-sembilan/pasal20",
+              "permalink": "/docs/bab-sembilan/pasal20",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sembilan/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sembilan/pasal20.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -416,62 +470,35 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/bab-sembilan/manage-docs-versions"
+                "title": "Pasal 19 - Akumulasi Pelanggaran",
+                "permalink": "/docs/bab-sembilan/pasal19"
               },
               "next": {
-                "title": "Bab 10 - Penutup",
-                "permalink": "/docs/category/bab-10---penutup"
+                "title": "Bab 10 - Penutupan",
+                "permalink": "/docs/bab-sepuluh"
               }
             },
             {
-              "unversionedId": "bab-sepuluh/manage-docs-versions",
-              "id": "bab-sepuluh/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/bab-sepuluh/manage-docs-versions.md",
-              "sourceDirName": "bab-sepuluh",
-              "slug": "/bab-sepuluh/manage-docs-versions",
-              "permalink": "/docs/bab-sepuluh/manage-docs-versions",
+              "unversionedId": "bab-sepuluh",
+              "id": "bab-sepuluh",
+              "title": "Bab 10 - Penutupan",
+              "description": "1. Semua ketetapan yang tertera dalam Bab dan Pasal di atas sudah merupakan keputusan dewan guru melalui Rapat Kerja (Raker)",
+              "source": "@site/docs/bab-sepuluh.md",
+              "sourceDirName": ".",
+              "slug": "/bab-sepuluh",
+              "permalink": "/docs/bab-sepuluh",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sepuluh/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sepuluh.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 11,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 11
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Bab 10 - Penutup",
-                "permalink": "/docs/category/bab-10---penutup"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/bab-sepuluh/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "bab-sepuluh/translate-your-site",
-              "id": "bab-sepuluh/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/bab-sepuluh/translate-your-site.md",
-              "sourceDirName": "bab-sepuluh",
-              "slug": "/bab-sepuluh/translate-your-site",
-              "permalink": "/docs/bab-sepuluh/translate-your-site",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sepuluh/translate-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/bab-sepuluh/manage-docs-versions"
+                "title": "Pasal 20 - Pembinaan",
+                "permalink": "/docs/bab-sembilan/pasal20"
               },
               "next": {
                 "title": "Format Penanganan",
@@ -506,16 +533,16 @@
               }
             },
             {
-              "unversionedId": "bab-tujuh/manage-docs-versions",
-              "id": "bab-tujuh/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/bab-tujuh/manage-docs-versions.md",
+              "unversionedId": "bab-tujuh/pasal11",
+              "id": "bab-tujuh/pasal11",
+              "title": "Pasal 11 - Hubungan murid dengan Guru, Karyawan/Pegawai dan Pelatih Sekolah",
+              "description": "1. Murid diharuskan menjaga hubungan yang baik dan menghormati guru karyawan/karyawati, pelatih ekstrakurikuler sesuai dengan ajaran agama Islam.",
+              "source": "@site/docs/bab-tujuh/pasal11.md",
               "sourceDirName": "bab-tujuh",
-              "slug": "/bab-tujuh/manage-docs-versions",
-              "permalink": "/docs/bab-tujuh/manage-docs-versions",
+              "slug": "/bab-tujuh/pasal11",
+              "permalink": "/docs/bab-tujuh/pasal11",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/pasal11.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -528,21 +555,21 @@
                 "permalink": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/bab-tujuh/translate-your-site"
+                "title": "Pasal 12 - Hubungan Murid dengan Murid",
+                "permalink": "/docs/bab-tujuh/pasal12"
               }
             },
             {
-              "unversionedId": "bab-tujuh/translate-your-site",
-              "id": "bab-tujuh/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/bab-tujuh/translate-your-site.md",
+              "unversionedId": "bab-tujuh/pasal12",
+              "id": "bab-tujuh/pasal12",
+              "title": "Pasal 12 - Hubungan Murid dengan Murid",
+              "description": "1. Murid diharuskan menjaga hubungan baik dengan sesama murid baik di dalam lingkungan sekolah maupun di luar lingkungan sekolah sesuai dengan ajaran Islam.",
+              "source": "@site/docs/bab-tujuh/pasal12.md",
               "sourceDirName": "bab-tujuh",
-              "slug": "/bab-tujuh/translate-your-site",
-              "permalink": "/docs/bab-tujuh/translate-your-site",
+              "slug": "/bab-tujuh/pasal12",
+              "permalink": "/docs/bab-tujuh/pasal12",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/pasal12.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -551,8 +578,89 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/bab-tujuh/manage-docs-versions"
+                "title": "Pasal 11 - Hubungan murid dengan Guru, Karyawan/Pegawai dan Pelatih Sekolah",
+                "permalink": "/docs/bab-tujuh/pasal11"
+              },
+              "next": {
+                "title": "Pasal 13 - Kegiatan Organisasi Murid dan Ekstrakurikuler",
+                "permalink": "/docs/bab-tujuh/pasal13"
+              }
+            },
+            {
+              "unversionedId": "bab-tujuh/pasal13",
+              "id": "bab-tujuh/pasal13",
+              "title": "Pasal 13 - Kegiatan Organisasi Murid dan Ekstrakurikuler",
+              "description": "1. Organisasi murid yang diakui keberadaannya oleh sekolah adalah Organisasi Murid Intra Sekolah (OSIS) SMP Islam Al Azhar 22 dan kegiatan ekstrakurikuler-ekstrakurikuler yang berada dalam Koordinasi OSIS SMP Islam Al Azhar 22.",
+              "source": "@site/docs/bab-tujuh/pasal13.md",
+              "sourceDirName": "bab-tujuh",
+              "slug": "/bab-tujuh/pasal13",
+              "permalink": "/docs/bab-tujuh/pasal13",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/pasal13.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pasal 12 - Hubungan Murid dengan Murid",
+                "permalink": "/docs/bab-tujuh/pasal12"
+              },
+              "next": {
+                "title": "pasal 14 - Tindakan Pacaran",
+                "permalink": "/docs/bab-tujuh/pasal14"
+              }
+            },
+            {
+              "unversionedId": "bab-tujuh/pasal14",
+              "id": "bab-tujuh/pasal14",
+              "title": "pasal 14 - Tindakan Pacaran",
+              "description": "1. Murid yang ketahuan punya hubungan pribadi (berpacaran) di lingkungan sekolah, akan dikenakan sanksi terlampir",
+              "source": "@site/docs/bab-tujuh/pasal14.md",
+              "sourceDirName": "bab-tujuh",
+              "slug": "/bab-tujuh/pasal14",
+              "permalink": "/docs/bab-tujuh/pasal14",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/pasal14.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pasal 13 - Kegiatan Organisasi Murid dan Ekstrakurikuler",
+                "permalink": "/docs/bab-tujuh/pasal13"
+              },
+              "next": {
+                "title": "Pasal 15 - Tindakan Kriminal",
+                "permalink": "/docs/bab-tujuh/pasal15"
+              }
+            },
+            {
+              "unversionedId": "bab-tujuh/pasal15",
+              "id": "bab-tujuh/pasal15",
+              "title": "Pasal 15 - Tindakan Kriminal",
+              "description": "1. Murid yang mempergunakan atau memakai barang milik orang lain tanpa izin dari pemiliknya, dikenakan poin sanksi terlampir Murid yang melakukan tindakan pencurian ringan di dalam lingkungan sekolah akan dikenakan sanksi terlampir. Seperti mengambil perlengkapan belajar, mengambil sandal, peci.",
+              "source": "@site/docs/bab-tujuh/pasal15.md",
+              "sourceDirName": "bab-tujuh",
+              "slug": "/bab-tujuh/pasal15",
+              "permalink": "/docs/bab-tujuh/pasal15",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/pasal15.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "pasal 14 - Tindakan Pacaran",
+                "permalink": "/docs/bab-tujuh/pasal14"
               },
               "next": {
                 "title": "Bab 8 - hak dan Kewajiban Murid",
@@ -578,8 +686,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translate your site",
-                "permalink": "/docs/bab-sepuluh/translate-your-site"
+                "title": "Bab 10 - Penutupan",
+                "permalink": "/docs/bab-sepuluh"
               }
             },
             {
@@ -674,11 +782,15 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "bab-enam/manage-docs-versions"
+                    "id": "bab-enam/pasal8"
                   },
                   {
                     "type": "doc",
-                    "id": "bab-enam/translate-your-site"
+                    "id": "bab-enam/pasal9"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-enam/pasal10"
                   }
                 ],
                 "link": {
@@ -695,11 +807,23 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "bab-tujuh/manage-docs-versions"
+                    "id": "bab-tujuh/pasal11"
                   },
                   {
                     "type": "doc",
-                    "id": "bab-tujuh/translate-your-site"
+                    "id": "bab-tujuh/pasal12"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-tujuh/pasal13"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-tujuh/pasal14"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-tujuh/pasal15"
                   }
                 ],
                 "link": {
@@ -716,11 +840,15 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "bab-delapan/manage-docs-versions"
+                    "id": "bab-delapan/pasal16"
                   },
                   {
                     "type": "doc",
-                    "id": "bab-delapan/translate-your-site"
+                    "id": "bab-delapan/pasal17"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bab-delapan/pasal18"
                   }
                 ],
                 "link": {
@@ -737,11 +865,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "bab-sembilan/manage-docs-versions"
+                    "id": "bab-sembilan/pasal19"
                   },
                   {
                     "type": "doc",
-                    "id": "bab-sembilan/translate-your-site"
+                    "id": "bab-sembilan/pasal20"
                   }
                 ],
                 "link": {
@@ -751,25 +879,8 @@
                 }
               },
               {
-                "type": "category",
-                "label": "Bab 10 - Penutup",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "bab-sepuluh/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "bab-sepuluh/translate-your-site"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/bab-10---penutup",
-                  "permalink": "/docs/category/bab-10---penutup"
-                }
+                "type": "doc",
+                "id": "bab-sepuluh"
               },
               {
                 "type": "doc",

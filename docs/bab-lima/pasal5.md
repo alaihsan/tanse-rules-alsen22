@@ -10,5 +10,5 @@ sidebar_position: 6
 5. Murid yang berkuku panjang, memakai cat kuku, berdandan berlebihan dan memakai aksesories yang berlebihan, dikenakan sanksi terlampir.Murid harus segera memotong kuku & menghapus cat kuku.
 6. Murid yang mengecat rambut pirang untuk kepentingan trend mode, akan dikenakan sanksi terlampir. Segera merubah warna rambut kambali.
 7. Murid yang membuat tato di bagian tubuhnya akan dikenakan sanksi terlampir untuk tato permanen maupun non permanen.
-8. [Murid yang mencoret] tembok, meja, bangku dan fasilitas sekolah lainnya dengan pilox, tinta, tipex, dan sejenisnya, akan dikenakan sanksi terlampir dan harus dibersihkan kembali.
+8. Murid yang mencoret tembok, meja, bangku dan fasilitas sekolah lainnya dengan pilox, tinta, tipex, dan sejenisnya, akan dikenakan sanksi terlampir dan harus dibersihkan kembali.
 9. Murid yang merokok dalam bentuk apapun baik di lingkungan sekolah maupun di luar lingkungan sekolah, baik dengan ataupun tanpa sanksi akan dikenakan sanksi terlampir.

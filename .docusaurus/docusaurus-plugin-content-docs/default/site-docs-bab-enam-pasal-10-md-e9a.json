@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-enam/pasal10",
+  "id": "bab-enam/pasal10",
+  "title": "Pasal 10 - Digital Class",
+  "description": "1. Setiap murid berkewajiban menjaga dan merawat perangkat device (iPad) masing-masing",
+  "source": "@site/docs/bab-enam/pasal10.md",
+  "sourceDirName": "bab-enam",
+  "slug": "/bab-enam/pasal10",
+  "permalink": "/docs/bab-enam/pasal10",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/pasal10.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 9 - Penggunaan handphone",
+    "permalink": "/docs/bab-enam/pasal9"
+  },
+  "next": {
+    "title": "Bab 7- Hubungan dengan Guru, Pegawai, dan Pelatih Sekolah",
+    "permalink": "/docs/category/bab-7--hubungan-dengan-guru-pegawai-dan-pelatih-sekolah"
+  }
+}

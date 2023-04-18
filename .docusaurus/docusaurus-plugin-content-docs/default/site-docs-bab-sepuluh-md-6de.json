@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-sepuluh",
+  "id": "bab-sepuluh",
+  "title": "Bab 10 - Penutupan",
+  "description": "1. Semua ketetapan yang tertera dalam Bab dan Pasal di atas sudah merupakan keputusan dewan guru melalui Rapat Kerja (Raker)",
+  "source": "@site/docs/bab-sepuluh.md",
+  "sourceDirName": ".",
+  "slug": "/bab-sepuluh",
+  "permalink": "/docs/bab-sepuluh",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-sepuluh.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 20 - Pembinaan",
+    "permalink": "/docs/bab-sembilan/pasal20"
+  },
+  "next": {
+    "title": "Format Penanganan",
+    "permalink": "/docs/Format Penanganan"
+  }
+}

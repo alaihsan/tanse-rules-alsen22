@@ -11,13 +11,18 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "bab-delapan/manage-docs-versions",
-              "path": "/docs/bab-delapan/manage-docs-versions",
+              "id": "bab-delapan/pasal16",
+              "path": "/docs/bab-delapan/pasal16",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-delapan/translate-your-site",
-              "path": "/docs/bab-delapan/translate-your-site",
+              "id": "bab-delapan/pasal17",
+              "path": "/docs/bab-delapan/pasal17",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-delapan/pasal18",
+              "path": "/docs/bab-delapan/pasal18",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -31,13 +36,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-enam/manage-docs-versions",
-              "path": "/docs/bab-enam/manage-docs-versions",
+              "id": "bab-enam/pasal10",
+              "path": "/docs/bab-enam/pasal10",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-enam/translate-your-site",
-              "path": "/docs/bab-enam/translate-your-site",
+              "id": "bab-enam/pasal8",
+              "path": "/docs/bab-enam/pasal8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-enam/pasal9",
+              "path": "/docs/bab-enam/pasal9",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -76,23 +86,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-sembilan/manage-docs-versions",
-              "path": "/docs/bab-sembilan/manage-docs-versions",
+              "id": "bab-sembilan/pasal19",
+              "path": "/docs/bab-sembilan/pasal19",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-sembilan/translate-your-site",
-              "path": "/docs/bab-sembilan/translate-your-site",
+              "id": "bab-sembilan/pasal20",
+              "path": "/docs/bab-sembilan/pasal20",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-sepuluh/manage-docs-versions",
-              "path": "/docs/bab-sepuluh/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "bab-sepuluh/translate-your-site",
-              "path": "/docs/bab-sepuluh/translate-your-site",
+              "id": "bab-sepuluh",
+              "path": "/docs/bab-sepuluh",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -101,13 +106,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-tujuh/manage-docs-versions",
-              "path": "/docs/bab-tujuh/manage-docs-versions",
+              "id": "bab-tujuh/pasal11",
+              "path": "/docs/bab-tujuh/pasal11",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bab-tujuh/translate-your-site",
-              "path": "/docs/bab-tujuh/translate-your-site",
+              "id": "bab-tujuh/pasal12",
+              "path": "/docs/bab-tujuh/pasal12",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-tujuh/pasal13",
+              "path": "/docs/bab-tujuh/pasal13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-tujuh/pasal14",
+              "path": "/docs/bab-tujuh/pasal14",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bab-tujuh/pasal15",
+              "path": "/docs/bab-tujuh/pasal15",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -143,11 +163,6 @@
             {
               "id": "/category/bab-9---mekanisme-sanksi-pelanggaran-tartib",
               "path": "/docs/category/bab-9---mekanisme-sanksi-pelanggaran-tartib",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/bab-10---penutup",
-              "path": "/docs/category/bab-10---penutup",
               "sidebar": "tutorialSidebar"
             }
           ],

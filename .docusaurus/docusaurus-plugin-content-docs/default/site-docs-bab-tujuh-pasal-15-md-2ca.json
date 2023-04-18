@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-tujuh/pasal15",
+  "id": "bab-tujuh/pasal15",
+  "title": "Pasal 15 - Tindakan Kriminal",
+  "description": "1. Murid yang mempergunakan atau memakai barang milik orang lain tanpa izin dari pemiliknya, dikenakan poin sanksi terlampir Murid yang melakukan tindakan pencurian ringan di dalam lingkungan sekolah akan dikenakan sanksi terlampir. Seperti mengambil perlengkapan belajar, mengambil sandal, peci.",
+  "source": "@site/docs/bab-tujuh/pasal15.md",
+  "sourceDirName": "bab-tujuh",
+  "slug": "/bab-tujuh/pasal15",
+  "permalink": "/docs/bab-tujuh/pasal15",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/pasal15.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pasal 14 - Tindakan Pacaran",
+    "permalink": "/docs/bab-tujuh/pasal14"
+  },
+  "next": {
+    "title": "Bab 8 - hak dan Kewajiban Murid",
+    "permalink": "/docs/category/bab-8---hak-dan-kewajiban-murid"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-enam/pasal9",
+  "id": "bab-enam/pasal9",
+  "title": "Pasal 9 - Penggunaan handphone",
+  "description": "1. Handphone yang diperbolehkan dibawa oleh murid, adalah handphone standar yang tidak berkamera, tidak bisa mengakses gambar atau internet dan tidak memiliki fasilitas MP3/MP4 (bukan smartphone)",
+  "source": "@site/docs/bab-enam/pasal9.md",
+  "sourceDirName": "bab-enam",
+  "slug": "/bab-enam/pasal9",
+  "permalink": "/docs/bab-enam/pasal9",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/pasal9.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 8 - Menjaga Sarana dan Prasarana Sekolah dan Pribadi",
+    "permalink": "/docs/bab-enam/pasal8"
+  },
+  "next": {
+    "title": "Pasal 10 - Digital Class",
+    "permalink": "/docs/bab-enam/pasal10"
+  }
+}

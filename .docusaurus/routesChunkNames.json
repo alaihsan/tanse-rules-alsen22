@@ -186,20 +186,24 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ffb": {
+  "/docs-30e": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-9-b-8-466"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/bab-delapan/manage-docs-versions-a80": {
+  "/docs/bab-delapan/pasal16-ed9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-delapan-manage-docs-versionse-31-725"
+    "content": "content---docs-bab-delapan-pasal-16-a-5-d-f41"
   },
-  "/docs/bab-delapan/translate-your-site-1d6": {
+  "/docs/bab-delapan/pasal17-68b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-delapan-translate-your-site-7-c-6-723"
+    "content": "content---docs-bab-delapan-pasal-17815-c70"
+  },
+  "/docs/bab-delapan/pasal18-ad4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-delapan-pasal-18817-481"
   },
   "/docs/bab-dua-87d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -209,13 +213,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bab-empat-848-636"
   },
-  "/docs/bab-enam/manage-docs-versions-4d0": {
+  "/docs/bab-enam/pasal10-00f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-enam-manage-docs-versions-94-d-7b8"
+    "content": "content---docs-bab-enam-pasal-10-e-9-a-e9f"
   },
-  "/docs/bab-enam/translate-your-site-06a": {
+  "/docs/bab-enam/pasal8-825": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-enam-translate-your-site-932-eb6"
+    "content": "content---docs-bab-enam-pasal-8-a-3-e-953"
+  },
+  "/docs/bab-enam/pasal9-892": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-enam-pasal-96-ce-43a"
   },
   "/docs/bab-lima/pasal2-eb7": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -245,37 +253,41 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bab-satufb-3-82d"
   },
-  "/docs/bab-sembilan/manage-docs-versions-8be": {
+  "/docs/bab-sembilan/pasal19-bda": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-sembilan-manage-docs-versions-400-ab9"
+    "content": "content---docs-bab-sembilan-pasal-19558-543"
   },
-  "/docs/bab-sembilan/translate-your-site-e72": {
+  "/docs/bab-sembilan/pasal20-b46": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-sembilan-translate-your-site-924-bda"
+    "content": "content---docs-bab-sembilan-pasal-20233-784"
   },
-  "/docs/bab-sepuluh/manage-docs-versions-901": {
+  "/docs/bab-sepuluh-2bc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-sepuluh-manage-docs-versionsf-87-c61"
-  },
-  "/docs/bab-sepuluh/translate-your-site-bc7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-sepuluh-translate-your-sitef-2-a-b1a"
+    "content": "content---docs-bab-sepuluh-6-de-8b7"
   },
   "/docs/bab-tiga-3e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-bab-tiga-958-a0a"
   },
-  "/docs/bab-tujuh/manage-docs-versions-e48": {
+  "/docs/bab-tujuh/pasal11-038": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-tujuh-manage-docs-versions-090-56a"
+    "content": "content---docs-bab-tujuh-pasal-11953-e56"
   },
-  "/docs/bab-tujuh/translate-your-site-6c7": {
+  "/docs/bab-tujuh/pasal12-eaf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bab-tujuh-translate-your-site-2-ad-561"
+    "content": "content---docs-bab-tujuh-pasal-121-d-7-6b7"
   },
-  "/docs/category/bab-10---penutup-06b": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-bab-10-penutupff-4-8fb"
+  "/docs/bab-tujuh/pasal13-74e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-tujuh-pasal-13682-750"
+  },
+  "/docs/bab-tujuh/pasal14-470": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-tujuh-pasal-1478-a-632"
+  },
+  "/docs/bab-tujuh/pasal15-7b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-bab-tujuh-pasal-152-ca-c9a"
   },
   "/docs/category/bab-5---kegiatan-belajar-mengajar-23e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",

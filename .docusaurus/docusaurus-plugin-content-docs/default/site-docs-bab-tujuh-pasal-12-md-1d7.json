@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-tujuh/pasal12",
+  "id": "bab-tujuh/pasal12",
+  "title": "Pasal 12 - Hubungan Murid dengan Murid",
+  "description": "1. Murid diharuskan menjaga hubungan baik dengan sesama murid baik di dalam lingkungan sekolah maupun di luar lingkungan sekolah sesuai dengan ajaran Islam.",
+  "source": "@site/docs/bab-tujuh/pasal12.md",
+  "sourceDirName": "bab-tujuh",
+  "slug": "/bab-tujuh/pasal12",
+  "permalink": "/docs/bab-tujuh/pasal12",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/pasal12.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pasal 11 - Hubungan murid dengan Guru, Karyawan/Pegawai dan Pelatih Sekolah",
+    "permalink": "/docs/bab-tujuh/pasal11"
+  },
+  "next": {
+    "title": "Pasal 13 - Kegiatan Organisasi Murid dan Ekstrakurikuler",
+    "permalink": "/docs/bab-tujuh/pasal13"
+  }
+}

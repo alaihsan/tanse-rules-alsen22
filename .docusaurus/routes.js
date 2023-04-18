@@ -99,17 +99,23 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ffb'),
+    component: ComponentCreator('/docs', '30e'),
     routes: [
       {
-        path: '/docs/bab-delapan/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-delapan/manage-docs-versions', 'a80'),
+        path: '/docs/bab-delapan/pasal16',
+        component: ComponentCreator('/docs/bab-delapan/pasal16', 'ed9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-delapan/translate-your-site',
-        component: ComponentCreator('/docs/bab-delapan/translate-your-site', '1d6'),
+        path: '/docs/bab-delapan/pasal17',
+        component: ComponentCreator('/docs/bab-delapan/pasal17', '68b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/bab-delapan/pasal18',
+        component: ComponentCreator('/docs/bab-delapan/pasal18', 'ad4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -126,14 +132,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-enam/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-enam/manage-docs-versions', '4d0'),
+        path: '/docs/bab-enam/pasal10',
+        component: ComponentCreator('/docs/bab-enam/pasal10', '00f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-enam/translate-your-site',
-        component: ComponentCreator('/docs/bab-enam/translate-your-site', '06a'),
+        path: '/docs/bab-enam/pasal8',
+        component: ComponentCreator('/docs/bab-enam/pasal8', '825'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/bab-enam/pasal9',
+        component: ComponentCreator('/docs/bab-enam/pasal9', '892'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -180,26 +192,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-sembilan/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-sembilan/manage-docs-versions', '8be'),
+        path: '/docs/bab-sembilan/pasal19',
+        component: ComponentCreator('/docs/bab-sembilan/pasal19', 'bda'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-sembilan/translate-your-site',
-        component: ComponentCreator('/docs/bab-sembilan/translate-your-site', 'e72'),
+        path: '/docs/bab-sembilan/pasal20',
+        component: ComponentCreator('/docs/bab-sembilan/pasal20', 'b46'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-sepuluh/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-sepuluh/manage-docs-versions', '901'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/bab-sepuluh/translate-your-site',
-        component: ComponentCreator('/docs/bab-sepuluh/translate-your-site', 'bc7'),
+        path: '/docs/bab-sepuluh',
+        component: ComponentCreator('/docs/bab-sepuluh', '2bc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -210,20 +216,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-tujuh/manage-docs-versions',
-        component: ComponentCreator('/docs/bab-tujuh/manage-docs-versions', 'e48'),
+        path: '/docs/bab-tujuh/pasal11',
+        component: ComponentCreator('/docs/bab-tujuh/pasal11', '038'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/bab-tujuh/translate-your-site',
-        component: ComponentCreator('/docs/bab-tujuh/translate-your-site', '6c7'),
+        path: '/docs/bab-tujuh/pasal12',
+        component: ComponentCreator('/docs/bab-tujuh/pasal12', 'eaf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/bab-10---penutup',
-        component: ComponentCreator('/docs/category/bab-10---penutup', '06b'),
+        path: '/docs/bab-tujuh/pasal13',
+        component: ComponentCreator('/docs/bab-tujuh/pasal13', '74e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/bab-tujuh/pasal14',
+        component: ComponentCreator('/docs/bab-tujuh/pasal14', '470'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/bab-tujuh/pasal15',
+        component: ComponentCreator('/docs/bab-tujuh/pasal15', '7b9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

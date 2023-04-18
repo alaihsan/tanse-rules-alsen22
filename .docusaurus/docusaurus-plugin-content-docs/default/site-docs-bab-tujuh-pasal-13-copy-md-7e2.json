@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-tujuh/pasal13 copy",
+  "id": "bab-tujuh/pasal13 copy",
+  "title": "pasal 13 -",
+  "description": "",
+  "source": "@site/docs/bab-tujuh/pasal13 copy.md",
+  "sourceDirName": "bab-tujuh",
+  "slug": "/bab-tujuh/pasal13 copy",
+  "permalink": "/docs/bab-tujuh/pasal13 copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-tujuh/pasal13 copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/bab-tujuh/translate-your-site"
+  },
+  "next": {
+    "title": "pasal 13 -",
+    "permalink": "/docs/bab-tujuh/pasal13"
+  }
+}

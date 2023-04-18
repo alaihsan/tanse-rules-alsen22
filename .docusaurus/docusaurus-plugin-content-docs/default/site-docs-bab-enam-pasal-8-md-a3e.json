@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bab-enam/pasal8",
+  "id": "bab-enam/pasal8",
+  "title": "Pasal 8 - Menjaga Sarana dan Prasarana Sekolah dan Pribadi",
+  "description": "1. Murid diwajibkan menjaga sarana dan prasarana sekolah, yayasan, pribadi, dan orang lain.",
+  "source": "@site/docs/bab-enam/pasal8.md",
+  "sourceDirName": "bab-enam",
+  "slug": "/bab-enam/pasal8",
+  "permalink": "/docs/bab-enam/pasal8",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bab-enam/pasal8.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bab 6 - Sarana dan Prasarana",
+    "permalink": "/docs/category/bab-6---sarana-dan-prasarana"
+  },
+  "next": {
+    "title": "Pasal 9 - Penggunaan handphone",
+    "permalink": "/docs/bab-enam/pasal9"
+  }
+}
