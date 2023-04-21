@@ -8,7 +8,7 @@ Mari jelajahi visi dan misi SMPIA 22 **dalam waktu kurang dari 5 menit.**
 
 ## VISI
 
-**[Terwujudnya murid yang Sehat, Mandiri, Agamis, Ramah, dan Terampil (SMART), Unggul dan Berwawasan Global](http://localhost:3000/docs/intro)**
+**Terwujudnya murid yang Sehat, Mandiri, Agamis, Ramah, dan Terampil (SMART), Unggul dan Berwawasan Global**
 
 Indikator
 
@@ -22,7 +22,7 @@ Indikator
 
 ## MISI
 
-**[Mengoptimalkan potensi murid untuk mencapai prestasi melalui pembelajaran Creative, Applikative, Responsible, dan Educative (Care)](http://localhost:3000/docs/intro)**
+**Mengoptimalkan potensi murid untuk mencapai prestasi melalui pembelajaran Creative, Applikative, Responsible, dan Educative (Care)**
 
 Adapun Indikator dari misi tersebut adalah:
 1. Meningkatkan kompetensi guru dalam penerapan teknologi dan metode pembelajaran modern.
